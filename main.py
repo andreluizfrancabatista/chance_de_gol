@@ -45,8 +45,11 @@ wd_Chrome = webdriver.Chrome(service=Service(ChromeDriverManager().install()), o
 # Schedule/Fixtures Série B
 # https://www.flashscore.com/football/brazil/serie-b/fixtures/
 
+# Definir Série A ou Série B
+serie = 'b' # ou b
+
 # Coletar os jogos e resultados passados
-wd_Chrome.get("https://www.flashscore.com/football/brazil/serie-b/results/")
+wd_Chrome.get(f'https://www.flashscore.com/football/brazil/serie-{serie}/results/')
 # wd_Chrome.get_screenshot_as_file("screenshot.png")
 
 results = {
@@ -85,12 +88,12 @@ df.reset_index(inplace=True, drop=True)
 df.index = df.index.set_names(['Index'])
 df = df.rename(index=lambda x: x + 1)
 
-filename = "serie_b.csv"
+filename = f'serie_{serie}.csv'
 df.to_csv(filename, sep=";", index=False)
 
 
 # Coletar os jogos futuros
-wd_Chrome.get("https://www.flashscore.com/football/brazil/serie-b/fixtures/")
+wd_Chrome.get(f'https://www.flashscore.com/football/brazil/serie-{serie}/fixtures/')
 # wd_Chrome.get_screenshot_as_file("screenshot.png")
 
 fixtures = {
@@ -127,5 +130,5 @@ df.reset_index(inplace=True, drop=True)
 df.index = df.index.set_names(['Index'])
 df = df.rename(index=lambda x: x + 1)
 
-filename = "serie_b_proximos.csv"
+filename = f'serie_{serie}_proximos.csv'
 df.to_csv(filename, sep=";", index=False)

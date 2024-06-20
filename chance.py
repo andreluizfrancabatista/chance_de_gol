@@ -49,10 +49,13 @@ def add_scores_to_new_csv(solution, new_file_path):
 
     return df_new
 
+
+# Definir a Série A ou Série B
+serie = 'b'
 # O arquivo CSV deve estar no seguinte formato
 # HOME;AWAY;FTHG;FTAG;DIFF
 # Caminho para o arquivo CSV
-file_path = 'serie_b.csv'
+file_path = f'serie_{serie}.csv'
 
 # O arquivo CSV deve estar no seguinte formato
 # HOME;AWAY;FTHG;FTAG;DIFF
@@ -72,7 +75,7 @@ for var, value in solution_sorted.items():
 # Caminho para o novo arquivo CSV
 # O arquivo CSV deve estar no seguinte formato
 # HOME;AWAY
-new_file_path = 'serie_b_proximos.csv'
+new_file_path = f'serie_{serie}_proximos.csv'
 
 # Adicionar pontuações e diffs ao novo CSV
 df_with_scores = add_scores_to_new_csv(solution, new_file_path)
