@@ -18,7 +18,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 options = webdriver.ChromeOptions()
 
 # Passando algumas opções para esse ChromeOptions
-# options.add_argument('--headless') # Não sei porque mas está dando erro na página de contratos.
+options.add_argument('--headless')
 options.add_argument('--no-sandbox')
 options.add_argument('--disable-dev-shm-usage')
 options.add_argument('--start-maximized')
@@ -45,6 +45,87 @@ wd_Chrome = webdriver.Chrome(service=Service(ChromeDriverManager().install()), o
 # Schedule/Fixtures Série B
 # https://www.flashscore.com/football/brazil/serie-b/fixtures/
 
-# Com o WebDrive a gente consegue a pedir a página (URL)
+# Coletar os jogos e resultados passados
 wd_Chrome.get("https://www.flashscore.com/football/brazil/serie-b/results/")
-wd_Chrome.get_screenshot_as_file("screenshot.png")
+# wd_Chrome.get_screenshot_as_file("screenshot.png")
+
+results = {
+    "HOME": [],
+    "AWAY": [],
+    "FTHG": [],
+    "FTAG": [],
+    "DIFF": []
+}
+
+jogos = wd_Chrome.find_elements(By.CSS_SELECTOR, 'div.event__match--static')
+
+for jogo in jogos:
+    try:
+        home = jogo.find_element(By.CSS_SELECTOR, 'div.event__homeParticipant>img')
+        home = home.get_attribute('alt')
+        away = jogo.find_element(By.CSS_SELECTOR, 'div.event__awayParticipant>img')
+        away = away.get_attribute('alt')
+        fthg = jogo.find_element(By.CSS_SELECTOR, 'div.event__score--home').text
+        fthg = int(fthg)
+        ftag = jogo.find_element(By.CSS_SELECTOR, 'div.event__score--away').text
+        ftag = int(ftag)
+        diff = fthg - ftag
+        # print(f'{home}, {away}, {fthg}, {ftag}, {diff}')
+        results['HOME'].append(home)
+        results['AWAY'].append(away)
+        results['FTHG'].append(fthg)
+        results['FTAG'].append(ftag)
+        results['DIFF'].append(diff)
+    except Exception as error:
+        print(f'Erro: {error}')
+        pass
+
+df = pd.DataFrame(results)
+df.reset_index(inplace=True, drop=True)
+df.index = df.index.set_names(['Index'])
+df = df.rename(index=lambda x: x + 1)
+
+filename = "serie_b.csv"
+df.to_csv(filename, sep=";", index=False)
+
+
+# Coletar os jogos futuros
+wd_Chrome.get("https://www.flashscore.com/football/brazil/serie-b/fixtures/")
+# wd_Chrome.get_screenshot_as_file("screenshot.png")
+
+fixtures = {
+    "HOME": [],
+    "AWAY": []
+}
+
+#div da rodada div.event__round--static
+rodada = wd_Chrome.find_elements(By.CSS_SELECTOR, 'div.event__round--static')[0]
+jogo = wd_Chrome.execute_script("return arguments[0].nextElementSibling;", rodada)
+jogos = []
+while(jogo.get_attribute('id')):
+    # print(jogo.get_attribute('id'), type(jogo.get_attribute('id')))
+    jogos.append(jogo)
+    jogo = wd_Chrome.execute_script("return arguments[0].nextElementSibling;", jogo)
+
+
+for jogo in jogos:
+    try:
+        home = jogo.find_element(By.CSS_SELECTOR, 'div.event__homeParticipant>img')
+        home = home.get_attribute('alt')
+        away = jogo.find_element(By.CSS_SELECTOR, 'div.event__awayParticipant>img')
+        away = away.get_attribute('alt')
+        fixtures['HOME'].append(home)
+        fixtures['AWAY'].append(away)
+    except Exception as error:
+        print(f'Erro: {error}')
+        pass
+
+wd_Chrome.quit()
+
+df = pd.DataFrame(fixtures)
+df.reset_index(inplace=True, drop=True)
+df.index = df.index.set_names(['Index'])
+df = df.rename(index=lambda x: x + 1)
+
+filename = "serie_b_proximos.csv"
+df.to_csv(filename, sep=";", index=False)
