@@ -43,15 +43,15 @@ def add_scores_to_new_csv(solution, new_file_path):
     df_new = pd.read_csv(new_file_path, sep=';')
 
     # Adicionar colunas com as pontuações dos times e a diff
-    df_new['HOME_SCORE'] = df_new['HOME'].map(solution)
-    df_new['AWAY_SCORE'] = df_new['AWAY'].map(solution)
+    df_new['HOME_SCORE'] = df_new['HOME'].map(solution).round(2)
+    df_new['AWAY_SCORE'] = df_new['AWAY'].map(solution).round(2)
     df_new['DIFF'] = (df_new['HOME_SCORE'] - df_new['AWAY_SCORE']).map('{:.2f}'.format)
 
     return df_new
 
 
 # Definir a Série A ou Série B
-serie = 'b'
+serie = 'a'
 # O arquivo CSV deve estar no seguinte formato
 # HOME;AWAY;FTHG;FTAG;DIFF
 # Caminho para o arquivo CSV
@@ -65,12 +65,12 @@ file_path = f'serie_{serie}.csv'
 solution = solve_system_from_csv(file_path)
 solution_sorted = {k: v for k, v in sorted(solution.items(), key=lambda item: item[1], reverse=True)}
 # Exibir a solução em ordem alfabética
-for var, value in solution.items():
-    print(f"{var} = {value:.2f}")
+# for var, value in solution.items():
+#     print(f"{var} = {value:.2f}")
 
 # Exibir a solução ordenada por força/ranking
-for var, value in solution_sorted.items():
-    print(f"{var} = {value:.2f}")
+# for var, value in solution_sorted.items():
+#     print(f"{var} = {value:.2f}")
 
 # Caminho para o novo arquivo CSV
 # O arquivo CSV deve estar no seguinte formato
@@ -81,5 +81,6 @@ new_file_path = f'serie_{serie}_proximos.csv'
 df_with_scores = add_scores_to_new_csv(solution, new_file_path)
 
 # Exibir o DataFrame resultante
-print()
+print(f'\n')
 print(df_with_scores)
+print(f'\n')

@@ -46,7 +46,7 @@ wd_Chrome = webdriver.Chrome(service=Service(ChromeDriverManager().install()), o
 # https://www.flashscore.com/football/brazil/serie-b/fixtures/
 
 # Definir Série A ou Série B
-serie = 'b' # ou b
+serie = 'a' # ou b
 
 # Coletar os jogos e resultados passados
 wd_Chrome.get(f'https://www.flashscore.com/football/brazil/serie-{serie}/results/')
