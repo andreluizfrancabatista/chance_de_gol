@@ -38,12 +38,13 @@ wd_Chrome = webdriver.Chrome(service=Service(ChromeDriverManager().install()), o
 """# Importando as Bibliotecas"""
 
 """# Iniciando a Raspagem de Dados"""
-
 # Links
 # Results Serie B
 # https://www.flashscore.com/football/brazil/serie-b/results/
 # Schedule/Fixtures Série B
 # https://www.flashscore.com/football/brazil/serie-b/fixtures/
+
+
 
 # Definir Série A ou Série B
 serie = 'a' # ou b
@@ -61,7 +62,8 @@ results = {
 }
 
 jogos = wd_Chrome.find_elements(By.CSS_SELECTOR, 'div.event__match--static')
-
+# Tempo inicial
+start = time.time()
 for jogo in jogos:
     try:
         home = jogo.find_element(By.CSS_SELECTOR, 'div.event__homeParticipant>img')
@@ -123,6 +125,12 @@ for jogo in jogos:
         print(f'Erro: {error}')
         pass
 
+# Tempo final
+end = time.time()
+# Tempo decorrido (final - inicial)
+print(f'Tempo de execução: {end-start} segundos')
+
+# Encerrar o webdriver
 wd_Chrome.quit()
 
 df = pd.DataFrame(fixtures)

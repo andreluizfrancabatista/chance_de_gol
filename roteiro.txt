@@ -1,0 +1,19 @@
+- Lista de países
+- Lista de ligas (série A, série B, 1nd divisão, 2nd divisão, Eredivisie, Eerste Divisie, etc)
+- Lista de temporadas (2024, 2023/2024, 2023, 2022/2023, etc...) 
+--> Dentro da página de cada liga de cada país tem um link Archive com a lista das temporadas passadas
+
+# filename pattern
+country-league-season.csv
+
+#header
+ROUND;HOME;AWAY;FTHG;FTAG;DIFF
+
+# Country list
+england, france, germany, italy, netherlands, spain, portugal, belgium, norway, sweden, finland
+
+# League list
+https://www.flashscore.com/football/england/premier-league/archive/
+https://www.flashscore.com/football/england/championship/archive/
+https://www.flashscore.com/football/france/ligue-1/archive/
+https://www.flashscore.com/football/france/ligue-2/archive/
