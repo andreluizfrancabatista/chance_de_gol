@@ -1,4 +1,21 @@
 HOME;AWAY;FTHG;FTAG;DIFF
+Santos;Chapecoense-SC;1;0;1
+Guarani;Ponte Preta;1;1;0
+Paysandu PA;Operario;1;1;0
+Avai;Amazonas;1;1;0
+Ceara;Ituano;4;2;2
+Botafogo SP;Sport Recife;1;1;0
+Coritiba;Vila Nova FC;1;1;0
+Amazonas;Coritiba;1;0;1
+Ponte Preta;Ceara;3;1;2
+America MG;Avai;1;1;0
+Mirassol;Santos;0;0;0
+Sport Recife;Novorizontino;1;2;-1
+Vila Nova FC;Goias;1;0;1
+Chapecoense-SC;Paysandu PA;1;2;-1
+Ituano;Brusque;1;1;0
+CRB;Guarani;1;0;1
+Operario;Botafogo SP;0;1;-1
 Ceara;Sport Recife;0;0;0
 Vila Nova FC;Mirassol;1;0;1
 Brusque;Avai;0;0;0
@@ -87,23 +104,3 @@ Vila Nova FC;Operario;1;0;1
 Chapecoense-SC;America MG;2;2;0
 Coritiba;Sport Recife;0;1;-1
 Paysandu PA;Avai;0;0;0
-Mirassol;Ceara;3;2;1
-Goias;Ponte Preta;3;0;3
-Coritiba;Brusque;1;0;1
-America MG;Novorizontino;2;0;2
-CRB;Amazonas;0;0;0
-Paysandu PA;Botafogo SP;1;1;0
-Guarani;Chapecoense-SC;0;1;-1
-Avai;Santos;0;2;-2
-Ituano;Operario;0;2;-2
-Sport Recife;Vila Nova FC;2;0;2
-Brusque;Mirassol;3;1;2
-Vila Nova FC;Guarani;2;0;2
-Ponte Preta;Coritiba;1;1;0
-Ceara;Goias;1;1;0
-Amazonas;Sport Recife;2;3;-1
-Santos;Paysandu PA;2;0;2
-Chapecoense-SC;Ituano;3;1;2
-Operario;Avai;1;0;1
-Botafogo SP;America MG;1;1;0
-Novorizontino;CRB;2;1;1

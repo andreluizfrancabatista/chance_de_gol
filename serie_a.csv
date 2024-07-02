@@ -1,4 +1,33 @@
 HOME;AWAY;FTHG;FTAG;DIFF
+Criciuma;Internacional;1;1;0
+Flamengo RJ;Cruzeiro;2;1;1
+Vitoria;Athletico-PR;0;1;-1
+Fortaleza;Juventude;2;1;1
+Gremio;Fluminense;1;0;1
+Sao Paulo;Bahia;3;1;2
+Atletico-MG;Atletico GO;1;1;0
+Cuiaba;Bragantino;1;1;0
+Vasco;Botafogo RJ;1;1;0
+Sao Paulo;Criciuma;2;1;1
+Fluminense;Vitoria;0;1;-1
+Bahia;Vasco;2;1;1
+Fortaleza;Palmeiras;3;0;3
+Internacional;Atletico-MG;1;2;-1
+Atletico GO;Gremio;1;1;0
+Corinthians;Cuiaba;1;1;0
+Juventude;Flamengo RJ;2;1;1
+Botafogo RJ;Bragantino;2;1;1
+Cruzeiro;Athletico-PR;2;0;2
+Atletico-MG;Fortaleza;1;1;0
+Bragantino;Vitoria;2;1;1
+Palmeiras;Juventude;3;1;2
+Athletico-PR;Corinthians;1;1;0
+Bahia;Cruzeiro;4;1;3
+Fluminense;Flamengo RJ;0;1;-1
+Vasco;Sao Paulo;4;1;3
+Cuiaba;Atletico GO;0;0;0
+Gremio;Internacional;0;1;-1
+Criciuma;Botafogo RJ;2;1;1
 Palmeiras;Bragantino;2;1;1
 Flamengo RJ;Bahia;2;1;1
 Vitoria;Atletico-MG;4;2;2
@@ -75,22 +104,3 @@ Atletico-MG;Cruzeiro;3;0;3
 Bragantino;Corinthians;1;0;1
 Gremio;Cuiaba;1;0;1
 Fluminense;Vasco;2;1;1
-Botafogo RJ;Atletico GO;1;0;1
-Flamengo RJ;Sao Paulo;2;1;1
-Atletico-MG;Criciuma;1;1;0
-Fortaleza;Cruzeiro;1;1;0
-Juventude;Corinthians;2;0;2
-Palmeiras;Internacional;0;1;-1
-Bragantino;Vasco;2;1;1
-Gremio;Athletico-PR;2;0;2
-Bahia;Fluminense;2;1;1
-Vitoria;Palmeiras;0;1;-1
-Cruzeiro;Botafogo RJ;3;2;1
-Athletico-PR;Cuiaba;4;0;4
-Atletico GO;Flamengo RJ;1;2;-1
-Corinthians;Atletico-MG;0;0;0
-Vasco;Gremio;2;1;1
-Fluminense;Bragantino;2;2;0
-Sao Paulo;Fortaleza;1;2;-1
-Criciuma;Juventude;1;1;0
-Internacional;Bahia;2;1;1

@@ -102,7 +102,7 @@ fixtures = {
 }
 
 #div da rodada div.event__round--static
-rodada = wd_Chrome.find_elements(By.CSS_SELECTOR, 'div.event__round--static')[0]
+rodada = wd_Chrome.find_elements(By.CSS_SELECTOR, 'div.event__round--static')[1]
 jogo = wd_Chrome.execute_script("return arguments[0].nextElementSibling;", rodada)
 jogos = []
 while(jogo.get_attribute('id')):
