@@ -1,0 +1,558 @@
+HOME;AWAY;FTHG;FTAG;DIFF
+Leeds;Southampton;0;1;-1
+Southampton;West Brom;3;1;2
+Leeds;Norwich;4;0;4
+West Brom;Southampton;0;0;0
+Norwich;Leeds;0;0;0
+Birmingham;Norwich;1;0;1
+Coventry;QPR;1;2;-1
+Ipswich;Huddersfield;2;0;2
+Leeds;Southampton;1;2;-1
+Leicester;Blackburn;0;2;-2
+Middlesbrough;Watford;3;1;2
+Plymouth;Hull;1;0;1
+Rotherham;Cardiff;5;2;3
+Stoke;Bristol City;4;0;4
+Sunderland;Sheffield Wed;0;2;-2
+Swansea;Millwall;0;1;-1
+West Brom;Preston;3;0;3
+Coventry;Ipswich;1;2;-1
+Preston;Leicester;0;3;-3
+Hull;Ipswich;3;3;0
+Blackburn;Coventry;0;0;0
+Bristol City;Rotherham;2;0;2
+Cardiff;Middlesbrough;1;4;-3
+Huddersfield;Birmingham;1;1;0
+Millwall;Plymouth;1;0;1
+Norwich;Swansea;2;2;0
+Sheffield Wed;West Brom;3;0;3
+Southampton;Stoke;0;1;-1
+Watford;Sunderland;1;0;1
+QPR;Leeds;4;0;4
+Coventry;Hull;2;3;-1
+Leicester;Southampton;5;0;5
+Middlesbrough;Leeds;3;4;-1
+Blackburn;Sheffield Wed;1;3;-2
+QPR;Preston;1;0;1
+Cardiff;Southampton;2;1;1
+Huddersfield;Swansea;0;4;-4
+Norwich;Bristol City;1;1;0
+Rotherham;Birmingham;0;0;0
+Stoke;Plymouth;3;0;3
+Sunderland;Millwall;0;1;-1
+Watford;Hull;0;0;0
+Leicester;West Brom;2;1;1
+Southampton;Preston;3;0;3
+Birmingham;Coventry;3;0;3
+Bristol City;Huddersfield;1;1;0
+Hull;QPR;3;0;3
+Ipswich;Middlesbrough;1;1;0
+Millwall;Cardiff;3;1;2
+Preston;Norwich;0;1;-1
+Sheffield Wed;Stoke;1;1;0
+Southampton;Watford;3;2;1
+Swansea;Rotherham;1;0;1
+West Brom;Sunderland;0;1;-1
+Leeds;Blackburn;0;1;-1
+Plymouth;Leicester;1;0;1
+Swansea;Stoke;3;0;3
+West Brom;Rotherham;2;0;2
+Birmingham;Cardiff;0;1;-1
+Bristol City;Blackburn;5;0;5
+Hull;Middlesbrough;2;2;0
+Ipswich;Watford;0;0;0
+Leeds;Sunderland;0;0;0
+Millwall;Leicester;1;0;1
+Plymouth;QPR;1;1;0
+Preston;Huddersfield;4;1;3
+Sheffield Wed;Norwich;2;2;0
+Southampton;Coventry;2;1;1
+Blackburn;Southampton;0;0;0
+Cardiff;Hull;1;3;-2
+Coventry;Leeds;2;1;1
+Huddersfield;Millwall;1;0;1
+Leicester;Birmingham;2;1;1
+Middlesbrough;Swansea;2;0;2
+QPR;Sheffield Wed;0;2;-2
+Stoke;West Brom;2;2;0
+Sunderland;Bristol City;0;0;0
+Watford;Preston;0;0;0
+Norwich;Ipswich;1;0;1
+Rotherham;Plymouth;0;1;-1
+Leeds;Hull;3;1;2
+Ipswich;Southampton;3;2;1
+Birmingham;Preston;1;0;1
+Coventry;Cardiff;1;2;-1
+Middlesbrough;Sheffield Wed;2;0;2
+Plymouth;Bristol City;0;1;-1
+Rotherham;Millwall;2;1;1
+Stoke;Huddersfield;1;1;0
+Sunderland;Blackburn;1;5;-4
+Swansea;QPR;0;1;-1
+West Brom;Watford;2;2;0
+Leicester;Norwich;3;1;2
+Watford;Leeds;2;2;0
+Blackburn;Ipswich;0;1;-1
+Cardiff;Sunderland;0;2;-2
+Huddersfield;Coventry;1;3;-2
+Hull;Stoke;0;2;-2
+Norwich;Plymouth;2;1;1
+Preston;Rotherham;3;0;3
+QPR;Birmingham;2;1;1
+Sheffield Wed;Swansea;1;1;0
+Southampton;Middlesbrough;1;1;0
+Millwall;West Brom;1;1;0
+Bristol City;Leicester;1;0;1
+Leeds;Millwall;2;0;2
+Birmingham;Watford;0;1;-1
+Ipswich;Sheffield Wed;6;0;6
+Middlesbrough;Blackburn;0;0;0
+Plymouth;Preston;0;1;-1
+Rotherham;Huddersfield;0;0;0
+Stoke;Norwich;0;3;-3
+Sunderland;QPR;0;0;0
+West Brom;Bristol City;2;0;2
+Swansea;Cardiff;2;0;2
+Birmingham;Middlesbrough;0;1;-1
+Bristol City;Swansea;1;0;1
+Huddersfield;West Brom;1;4;-3
+Blackburn;Plymouth;1;1;0
+Hull;Leicester;2;2;0
+Millwall;Birmingham;1;0;1
+Norwich;Rotherham;5;0;5
+Preston;Stoke;1;2;-1
+QPR;Middlesbrough;0;2;-2
+Southampton;Sunderland;4;2;2
+Watford;Coventry;1;2;-1
+Cardiff;Ipswich;2;1;1
+Sheffield Wed;Leeds;0;2;-2
+QPR;West Brom;2;2;0
+Cardiff;Huddersfield;1;0;1
+Middlesbrough;Norwich;3;1;2
+Watford;Swansea;1;1;0
+Ipswich;Bristol City;3;2;1
+Blackburn;Millwall;1;1;0
+Coventry;Rotherham;5;0;5
+Hull;Birmingham;1;1;0
+Leeds;Stoke;1;0;1
+Sheffield Wed;Plymouth;1;0;1
+Sunderland;Leicester;0;1;-1
+Birmingham;Southampton;3;4;-1
+Leicester;QPR;1;2;-1
+Millwall;Watford;1;0;1
+Norwich;Sunderland;1;0;1
+Plymouth;Ipswich;0;2;-2
+Preston;Hull;0;0;0
+Rotherham;Sheffield Wed;0;1;-1
+Stoke;Middlesbrough;2;0;2
+Swansea;Blackburn;2;1;1
+Bristol City;Cardiff;0;1;-1
+Huddersfield;Leeds;1;1;0
+West Brom;Coventry;2;1;1
+Blackburn;Norwich;1;1;0
+Cardiff;Stoke;2;1;1
+Ipswich;Birmingham;3;1;2
+Middlesbrough;Plymouth;0;2;-2
+QPR;Rotherham;2;1;1
+Sheffield Wed;Bristol City;2;1;1
+Southampton;Millwall;1;2;-1
+Sunderland;Swansea;1;2;-1
+Watford;Huddersfield;1;2;-1
+Hull;West Brom;1;1;0
+Leeds;Leicester;3;1;2
+Coventry;Preston;0;3;-3
+Cardiff;Blackburn;0;0;0
+Ipswich;Rotherham;4;3;1
+Plymouth;West Brom;0;3;-3
+Southampton;Hull;1;2;-1
+Birmingham;Sunderland;2;1;1
+Bristol City;QPR;0;1;-1
+Huddersfield;Hull;1;2;-1
+Leicester;Middlesbrough;1;2;-1
+Millwall;Sheffield Wed;0;2;-2
+Norwich;Cardiff;4;1;3
+Preston;Blackburn;2;2;0
+Rotherham;Watford;0;1;-1
+Stoke;Coventry;0;1;-1
+Swansea;Ipswich;1;2;-1
+Plymouth;Leeds;0;2;-2
+West Brom;Southampton;0;2;-2
+Millwall;Ipswich;0;4;-4
+Huddersfield;Sunderland;1;0;1
+Plymouth;Coventry;2;2;0
+Preston;Middlesbrough;2;1;1
+Stoke;QPR;1;0;1
+Bristol City;Southampton;3;1;2
+West Brom;Cardiff;2;0;2
+Birmingham;Blackburn;1;0;1
+Leicester;Sheffield Wed;2;0;2
+Norwich;Watford;4;2;2
+Rotherham;Hull;1;2;-1
+Swansea;Leeds;0;4;-4
+Coventry;Millwall;2;1;1
+Blackburn;Stoke;3;1;2
+Cardiff;Preston;0;2;-2
+Hull;Swansea;0;1;-1
+Leeds;Rotherham;3;0;3
+Middlesbrough;Bristol City;1;2;-1
+QPR;Norwich;2;2;0
+Southampton;Huddersfield;5;3;2
+Sunderland;Plymouth;3;1;2
+Watford;Leicester;1;2;-1
+Ipswich;West Brom;2;2;0
+Sheffield Wed;Birmingham;2;0;2
+Middlesbrough;Sunderland;1;1;0
+Blackburn;QPR;1;2;-1
+Huddersfield;Sheffield Wed;4;0;4
+Hull;Millwall;1;0;1
+Norwich;Coventry;2;1;1
+Preston;Ipswich;3;2;1
+Rotherham;Southampton;0;2;-2
+Stoke;Leicester;0;5;-5
+Swansea;Plymouth;0;1;-1
+Watford;Cardiff;0;1;-1
+West Brom;Birmingham;1;0;1
+Bristol City;Leeds;0;1;-1
+Sheffield Wed;Watford;0;0;0
+Coventry;Bristol City;2;2;0
+Leicester;Swansea;3;1;2
+QPR;Huddersfield;1;1;0
+Millwall;Preston;1;1;0
+Sunderland;Stoke;3;1;2
+Leeds;Norwich;1;0;1
+Leicester;Ipswich;1;1;0
+Leeds;Preston;2;1;1
+Blackburn;Huddersfield;1;1;0
+Bristol City;Watford;1;1;0
+Middlesbrough;Rotherham;1;1;0
+Norwich;West Brom;2;0;2
+Plymouth;Cardiff;3;1;2
+QPR;Millwall;2;0;2
+Sheffield Wed;Coventry;1;2;-1
+Stoke;Birmingham;1;2;-1
+Swansea;Southampton;1;3;-2
+Sunderland;Hull;0;1;-1
+QPR;Watford;1;2;-1
+Ipswich;Sunderland;2;1;1
+Birmingham;Swansea;2;2;0
+Cardiff;Leeds;0;3;-3
+Huddersfield;Plymouth;1;1;0
+Millwall;Middlesbrough;1;3;-2
+Preston;Bristol City;2;0;2
+Rotherham;Stoke;0;1;-1
+Southampton;Sheffield Wed;4;0;4
+West Brom;Blackburn;4;1;3
+Coventry;Leicester;3;1;2
+Hull;Norwich;1;2;-1
+Sheffield Wed;Hull;3;1;2
+Blackburn;Rotherham;2;2;0
+Bristol City;Millwall;0;1;-1
+Leeds;Birmingham;3;0;3
+Leicester;Huddersfield;4;1;3
+Middlesbrough;Coventry;1;3;-2
+Norwich;Southampton;1;1;0
+Plymouth;Watford;3;3;0
+QPR;Cardiff;1;2;-1
+Stoke;Ipswich;0;0;0
+Swansea;West Brom;1;0;1
+Sunderland;Preston;2;0;2
+West Brom;Leeds;1;0;1
+Birmingham;Bristol City;0;0;0
+Cardiff;Leicester;0;2;-2
+Coventry;Swansea;2;2;0
+Huddersfield;Middlesbrough;1;2;-1
+Hull;Blackburn;3;2;1
+Ipswich;QPR;0;0;0
+Millwall;Norwich;1;0;1
+Preston;Sheffield Wed;0;1;-1
+Rotherham;Sunderland;1;1;0
+Watford;Stoke;1;1;0
+Southampton;Plymouth;2;1;1
+Ipswich;Leicester;1;1;0
+Birmingham;Stoke;1;3;-2
+Cardiff;Plymouth;2;2;0
+Coventry;Sheffield Wed;2;0;2
+Huddersfield;Blackburn;3;0;3
+Hull;Sunderland;0;1;-1
+Rotherham;Middlesbrough;1;0;1
+Southampton;Swansea;5;0;5
+Watford;Bristol City;1;4;-3
+West Brom;Norwich;1;0;1
+Millwall;QPR;2;0;2
+Preston;Leeds;2;1;1
+Blackburn;Watford;1;2;-1
+Leicester;Rotherham;3;0;3
+Middlesbrough;West Brom;1;0;1
+Norwich;Huddersfield;2;0;2
+Plymouth;Birmingham;3;3;0
+QPR;Southampton;0;1;-1
+Sheffield Wed;Cardiff;1;2;-1
+Stoke;Millwall;0;0;0
+Sunderland;Coventry;0;3;-3
+Leeds;Ipswich;4;0;4
+Bristol City;Hull;3;2;1
+Swansea;Preston;2;1;1
+Birmingham;Leicester;2;3;-1
+West Brom;Stoke;1;1;0
+Bristol City;Sunderland;1;0;1
+Hull;Cardiff;3;0;3
+Leeds;Coventry;1;1;0
+Millwall;Huddersfield;1;1;0
+Plymouth;Rotherham;3;2;1
+Preston;Watford;1;5;-4
+Sheffield Wed;QPR;2;1;1
+Southampton;Blackburn;4;0;4
+Swansea;Middlesbrough;1;2;-1
+Ipswich;Norwich;2;2;0
+Middlesbrough;Hull;1;2;-1
+Cardiff;Birmingham;0;1;-1
+Coventry;Southampton;1;1;0
+Leicester;Millwall;3;2;1
+Norwich;Sheffield Wed;3;1;2
+QPR;Plymouth;0;0;0
+Sunderland;Leeds;1;0;1
+Blackburn;Bristol City;2;1;1
+Huddersfield;Preston;1;3;-2
+Rotherham;West Brom;0;2;-2
+Stoke;Swansea;1;1;0
+Watford;Ipswich;1;2;-1
+Cardiff;Millwall;1;0;1
+Huddersfield;Bristol City;1;1;0
+Leicester;Plymouth;4;0;4
+Middlesbrough;Ipswich;0;2;-2
+Norwich;Preston;0;0;0
+QPR;Hull;2;0;2
+Rotherham;Swansea;1;2;-1
+Stoke;Sheffield Wed;0;1;-1
+Watford;Southampton;1;1;0
+Blackburn;Leeds;0;2;-2
+Sunderland;West Brom;2;1;1
+Coventry;Birmingham;2;0;2
+Bristol City;Norwich;1;2;-1
+Birmingham;Rotherham;0;0;0
+Hull;Watford;1;2;-1
+Ipswich;Coventry;2;1;1
+Leeds;Middlesbrough;3;2;1
+Millwall;Sunderland;1;1;0
+Plymouth;Stoke;2;1;1
+Sheffield Wed;Blackburn;3;1;2
+Southampton;Cardiff;2;0;2
+Swansea;Huddersfield;1;1;0
+West Brom;Leicester;1;2;-1
+Preston;QPR;0;2;-2
+Ipswich;Millwall;3;1;2
+Blackburn;Birmingham;4;2;2
+Leeds;Swansea;3;1;2
+Sheffield Wed;Leicester;1;1;0
+Southampton;Bristol City;1;0;1
+Sunderland;Huddersfield;1;2;-1
+Watford;Norwich;3;2;1
+Cardiff;West Brom;0;1;-1
+Coventry;Plymouth;1;0;1
+Hull;Rotherham;4;1;3
+Middlesbrough;Preston;4;0;4
+QPR;Stoke;4;2;2
+West Brom;Ipswich;2;0;2
+Birmingham;Sheffield Wed;2;1;1
+Bristol City;Middlesbrough;3;2;1
+Huddersfield;Southampton;1;1;0
+Leicester;Watford;2;0;2
+Millwall;Coventry;0;3;-3
+Norwich;QPR;1;0;1
+Plymouth;Sunderland;2;0;2
+Preston;Cardiff;1;2;-1
+Stoke;Blackburn;0;3;-3
+Swansea;Hull;2;2;0
+Rotherham;Leeds;1;1;0
+Cardiff;Norwich;2;3;-1
+Coventry;Stoke;0;0;0
+Hull;Huddersfield;1;0;1
+Ipswich;Swansea;3;2;1
+Leeds;Plymouth;2;1;1
+Middlesbrough;Leicester;1;0;1
+QPR;Bristol City;0;0;0
+Sheffield Wed;Millwall;0;4;-4
+Southampton;West Brom;2;1;1
+Watford;Rotherham;5;0;5
+Sunderland;Birmingham;3;1;2
+Blackburn;Preston;1;2;-1
+Rotherham;Ipswich;2;2;0
+Norwich;Blackburn;1;3;-2
+Birmingham;Ipswich;2;2;0
+Bristol City;Sheffield Wed;1;0;1
+Huddersfield;Watford;0;0;0
+Millwall;Southampton;0;1;-1
+Plymouth;Middlesbrough;3;3;0
+Preston;Coventry;3;2;1
+Rotherham;QPR;1;1;0
+Stoke;Cardiff;0;0;0
+Swansea;Sunderland;0;0;0
+West Brom;Hull;3;1;2
+Leicester;Leeds;0;1;-1
+Coventry;West Brom;0;2;-2
+Sheffield Wed;Rotherham;2;0;2
+Blackburn;Swansea;0;1;-1
+Cardiff;Bristol City;2;0;2
+Hull;Preston;1;0;1
+Ipswich;Plymouth;3;2;1
+Middlesbrough;Stoke;0;2;-2
+QPR;Leicester;1;2;-1
+Sunderland;Norwich;3;1;2
+Watford;Millwall;2;2;0
+Leeds;Huddersfield;4;1;3
+Southampton;Birmingham;3;1;2
+Stoke;Leeds;1;0;1
+Birmingham;Hull;0;2;-2
+Bristol City;Ipswich;0;1;-1
+Plymouth;Sheffield Wed;3;0;3
+Preston;Southampton;2;2;0
+Rotherham;Coventry;2;0;2
+Leicester;Sunderland;1;0;1
+West Brom;QPR;2;0;2
+Huddersfield;Cardiff;0;4;-4
+Millwall;Blackburn;1;2;-1
+Norwich;Middlesbrough;1;2;-1
+Swansea;Watford;0;1;-1
+Blackburn;Cardiff;1;0;1
+Bristol City;Coventry;1;0;1
+Huddersfield;QPR;2;1;1
+Hull;Southampton;1;2;-1
+Middlesbrough;Birmingham;1;0;1
+Norwich;Leeds;2;3;-1
+Stoke;Sunderland;2;1;1
+Swansea;Leicester;1;3;-2
+Watford;Sheffield Wed;1;0;1
+West Brom;Plymouth;0;0;0
+Preston;Millwall;1;1;0
+Cardiff;Watford;1;1;0
+Coventry;Norwich;1;1;0
+Ipswich;Preston;4;2;2
+Leeds;Bristol City;2;1;1
+Leicester;Stoke;2;0;2
+Millwall;Hull;2;2;0
+Plymouth;Swansea;1;3;-2
+QPR;Blackburn;0;4;-4
+Sheffield Wed;Huddersfield;0;0;0
+Southampton;Rotherham;1;1;0
+Sunderland;Middlesbrough;0;4;-4
+Birmingham;West Brom;3;1;2
+Rotherham;Bristol City;1;2;-1
+Coventry;Blackburn;1;0;1
+Leeds;QPR;1;0;1
+Leicester;Preston;3;0;3
+Sunderland;Watford;2;0;2
+Swansea;Norwich;2;1;1
+Stoke;Southampton;0;1;-1
+West Brom;Sheffield Wed;1;0;1
+Birmingham;Huddersfield;4;1;3
+Ipswich;Hull;3;0;3
+Middlesbrough;Cardiff;2;0;2
+Plymouth;Millwall;0;2;-2
+Blackburn;Leicester;1;4;-3
+Bristol City;Stoke;2;3;-1
+Cardiff;Rotherham;2;0;2
+Huddersfield;Ipswich;1;1;0
+Hull;Plymouth;1;1;0
+Millwall;Swansea;0;3;-3
+Norwich;Birmingham;2;0;2
+Preston;West Brom;0;4;-4
+QPR;Coventry;1;3;-2
+Watford;Middlesbrough;2;3;-1
+Southampton;Leeds;3;1;2
+Sheffield Wed;Sunderland;0;3;-3
+Coventry;Huddersfield;1;1;0
+Sunderland;Cardiff;0;1;-1
+Stoke;Hull;1;3;-2
+Ipswich;Blackburn;4;3;1
+Leeds;Watford;3;0;3
+Leicester;Bristol City;1;0;1
+Middlesbrough;Southampton;2;1;1
+Plymouth;Norwich;6;2;4
+Rotherham;Preston;1;1;0
+Swansea;Sheffield Wed;3;0;3
+West Brom;Millwall;0;0;0
+Birmingham;QPR;0;0;0
+Norwich;Leicester;0;2;-2
+Blackburn;Sunderland;1;3;-2
+Huddersfield;Stoke;2;2;0
+Hull;Leeds;0;0;0
+Millwall;Rotherham;3;0;3
+Watford;West Brom;2;2;0
+Sheffield Wed;Middlesbrough;1;1;0
+Bristol City;Plymouth;4;1;3
+Cardiff;Coventry;3;2;1
+Preston;Birmingham;2;1;1
+QPR;Swansea;1;1;0
+Southampton;Ipswich;0;1;-1
+Millwall;Leeds;0;3;-3
+Cardiff;Swansea;2;0;2
+Blackburn;Middlesbrough;2;1;1
+Bristol City;West Brom;0;0;0
+Huddersfield;Rotherham;2;0;2
+Norwich;Stoke;1;0;1
+Preston;Plymouth;2;1;1
+QPR;Sunderland;1;3;-2
+Sheffield Wed;Ipswich;0;1;-1
+Watford;Birmingham;2;0;2
+Southampton;Leicester;1;4;-3
+Hull;Coventry;1;1;0
+Coventry;Watford;3;3;0
+Ipswich;Cardiff;3;2;1
+Leeds;Sheffield Wed;0;0;0
+Leicester;Hull;0;1;-1
+Middlesbrough;QPR;0;2;-2
+Plymouth;Blackburn;3;0;3
+Rotherham;Norwich;2;1;1
+Stoke;Preston;0;2;-2
+West Brom;Huddersfield;1;2;-1
+Birmingham;Millwall;1;1;0
+Sunderland;Southampton;5;0;5
+Swansea;Bristol City;1;2;-1
+Watford;Blackburn;0;1;-1
+Birmingham;Plymouth;2;1;1
+Cardiff;Sheffield Wed;2;1;1
+Coventry;Sunderland;0;0;0
+Huddersfield;Norwich;0;4;-4
+Ipswich;Leeds;3;4;-1
+Millwall;Stoke;1;0;1
+Preston;Swansea;2;1;1
+Rotherham;Leicester;1;2;-1
+Southampton;QPR;2;1;1
+West Brom;Middlesbrough;4;2;2
+Hull;Bristol City;1;1;0
+Norwich;Millwall;3;1;2
+Blackburn;Hull;1;2;-1
+Bristol City;Birmingham;0;2;-2
+Leicester;Cardiff;2;1;1
+Middlesbrough;Huddersfield;1;1;0
+QPR;Ipswich;0;1;-1
+Sheffield Wed;Preston;0;1;-1
+Stoke;Watford;1;0;1
+Sunderland;Rotherham;2;1;1
+Swansea;Coventry;1;1;0
+Plymouth;Southampton;1;2;-1
+Leeds;West Brom;1;1;0
+Birmingham;Leeds;1;0;1
+Cardiff;QPR;1;2;-1
+Huddersfield;Leicester;0;1;-1
+Hull;Sheffield Wed;4;2;2
+Ipswich;Stoke;2;0;2
+Millwall;Bristol City;0;1;-1
+Preston;Sunderland;2;1;1
+Rotherham;Blackburn;2;2;0
+Southampton;Norwich;4;4;0
+Watford;Plymouth;0;0;0
+West Brom;Swansea;3;2;1
+Coventry;Middlesbrough;3;0;3
+Sunderland;Ipswich;1;2;-1
+Leeds;Cardiff;2;2;0
+Leicester;Coventry;2;1;1
+Blackburn;West Brom;2;1;1
+Bristol City;Preston;1;1;0
+Middlesbrough;Millwall;0;1;-1
+Norwich;Hull;2;1;1
+Plymouth;Huddersfield;3;1;2
+Stoke;Rotherham;4;1;3
+Swansea;Birmingham;1;1;0
+Watford;QPR;4;0;4
+Sheffield Wed;Southampton;1;2;-1

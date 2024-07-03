@@ -7,7 +7,7 @@
 country-league-season.csv
 
 #header
-ROUND;HOME;AWAY;FTHG;FTAG;DIFF
+DATE;ROUND;HOME;AWAY;FTHG;FTAG;DIFF
 
 # Country list
 england, france, germany, italy, netherlands, spain, portugal, belgium, norway, sweden, finland
@@ -17,3 +17,7 @@ https://www.flashscore.com/football/england/premier-league/archive/
 https://www.flashscore.com/football/england/championship/archive/
 https://www.flashscore.com/football/france/ligue-1/archive/
 https://www.flashscore.com/football/france/ligue-2/archive/
+
+
+# Análise
+Faz a separação pelas datas. Pega a data do jogo, e faz os cálculos para todos os jogos anteriores a data do jogo a ser analisado.

@@ -47,7 +47,7 @@ wd_Chrome = webdriver.Chrome(service=Service(ChromeDriverManager().install()), o
 
 
 # Definir Série A ou Série B
-serie = 'a' # ou b
+serie = 'd' # ou b
 
 # Coletar os jogos e resultados passados
 wd_Chrome.get(f'https://www.flashscore.com/football/brazil/serie-{serie}/results/')
@@ -104,7 +104,7 @@ fixtures = {
 }
 
 #div da rodada div.event__round--static
-rodada = wd_Chrome.find_elements(By.CSS_SELECTOR, 'div.event__round--static')[1]
+rodada = wd_Chrome.find_elements(By.CSS_SELECTOR, 'div.event__round--static')[0]
 jogo = wd_Chrome.execute_script("return arguments[0].nextElementSibling;", rodada)
 jogos = []
 while(jogo.get_attribute('id')):
