@@ -1,0 +1,391 @@
+DATE;HOME;AWAY;FTHG;FTAG;DIFF
+11/06/2023;Bari;Cagliari;0;1;-1
+08/06/2023;Cagliari;Bari;1;1;0
+03/06/2023;Parma;Cagliari;0;0;0
+02/06/2023;Bari;Sudtirol;1;0;1
+01/06/2023;Brescia;Cosenza;0;3;-3
+30/05/2023;Cagliari;Parma;3;2;1
+29/05/2023;Sudtirol;Bari;1;0;1
+27/05/2023;Cagliari;Venezia;2;1;1
+26/05/2023;Sudtirol;Reggio Calabria;1;0;1
+25/05/2023;Cosenza;Brescia;1;0;1
+19/05/2023;Cittadella;Como;0;0;0
+19/05/2023;Cosenza;Cagliari;0;1;-1
+19/05/2023;Genoa;Bari;4;3;1
+19/05/2023;Modena;Sudtirol;2;1;1
+19/05/2023;Palermo;Brescia;2;2;0
+19/05/2023;Parma;Venezia;2;1;1
+19/05/2023;Perugia;Benevento;3;2;1
+19/05/2023;Pisa;Spal;1;2;-1
+19/05/2023;Reggio Calabria;Ascoli;1;0;1
+19/05/2023;Ternana;Frosinone;2;3;-1
+13/05/2023;Frosinone;Genoa;3;2;1
+13/05/2023;Ascoli;Cosenza;1;1;0
+13/05/2023;Bari;Reggio Calabria;1;0;1
+13/05/2023;Benevento;Modena;2;1;1
+13/05/2023;Brescia;Pisa;1;1;0
+13/05/2023;Cagliari;Palermo;2;1;1
+13/05/2023;Como;Ternana;3;1;2
+13/05/2023;Spal;Parma;0;1;-1
+13/05/2023;Sudtirol;Cittadella;1;1;0
+13/05/2023;Venezia;Perugia;3;2;1
+07/05/2023;Parma;Brescia;2;0;2
+06/05/2023;Palermo;Spal;2;1;1
+06/05/2023;Cittadella;Benevento;3;1;2
+06/05/2023;Cosenza;Venezia;1;1;0
+06/05/2023;Genoa;Ascoli;2;1;1
+06/05/2023;Modena;Bari;1;1;0
+06/05/2023;Pisa;Frosinone;1;3;-2
+06/05/2023;Reggio Calabria;Como;2;1;1
+06/05/2023;Ternana;Sudtirol;0;1;-1
+05/05/2023;Perugia;Cagliari;0;5;-5
+01/05/2023;Frosinone;Reggio Calabria;3;1;2
+01/05/2023;Venezia;Modena;5;0;5
+01/05/2023;Ascoli;Pisa;2;1;1
+01/05/2023;Bari;Cittadella;1;1;0
+01/05/2023;Benevento;Parma;2;2;0
+01/05/2023;Brescia;Cosenza;2;1;1
+01/05/2023;Sudtirol;Genoa;0;0;0
+01/05/2023;Como;Palermo;1;1;0
+30/04/2023;Cagliari;Ternana;2;1;1
+30/04/2023;Spal;Perugia;1;1;0
+23/04/2023;Pisa;Bari;1;2;-1
+23/04/2023;Ternana;Venezia;1;4;-3
+22/04/2023;Palermo;Benevento;1;1;0
+22/04/2023;Cittadella;Genoa;0;1;-1
+22/04/2023;Como;Ascoli;1;1;0
+22/04/2023;Frosinone;Sudtirol;0;0;0
+22/04/2023;Modena;Spal;0;0;0
+22/04/2023;Parma;Cagliari;2;1;1
+22/04/2023;Perugia;Cosenza;0;0;0
+21/04/2023;Reggio Calabria;Brescia;1;2;-1
+16/04/2023;Ternana;Pisa;2;1;1
+15/04/2023;Cagliari;Frosinone;0;0;0
+15/04/2023;Ascoli;Sudtirol;1;0;1
+15/04/2023;Bari;Como;2;2;0
+15/04/2023;Benevento;Reggio Calabria;1;1;0
+15/04/2023;Cosenza;Cittadella;1;1;0
+15/04/2023;Genoa;Perugia;2;0;2
+15/04/2023;Spal;Brescia;2;2;0
+15/04/2023;Venezia;Palermo;3;2;1
+14/04/2023;Modena;Parma;1;1;0
+10/04/2023;Palermo;Cosenza;0;0;0
+10/04/2023;Pisa;Cagliari;0;0;0
+10/04/2023;Brescia;Ternana;1;0;1
+10/04/2023;Cittadella;Parma;0;1;-1
+10/04/2023;Como;Genoa;2;2;0
+10/04/2023;Frosinone;Ascoli;2;0;2
+10/04/2023;Perugia;Modena;0;1;-1
+10/04/2023;Reggio Calabria;Venezia;1;0;1
+10/04/2023;Sudtirol;Bari;0;1;-1
+10/04/2023;Benevento;Spal;1;3;-2
+05/04/2023;Perugia;Reggio Calabria;1;3;-2
+02/04/2023;Modena;Cittadella;0;0;0
+01/04/2023;Bari;Benevento;2;0;2
+01/04/2023;Perugia;Frosinone;1;1;0
+01/04/2023;Ascoli;Brescia;4;3;1
+01/04/2023;Cagliari;Sudtirol;1;1;0
+01/04/2023;Cosenza;Pisa;1;0;1
+01/04/2023;Parma;Palermo;2;1;1
+01/04/2023;Spal;Ternana;1;1;0
+01/04/2023;Venezia;Como;3;2;1
+31/03/2023;Genoa;Reggio Calabria;1;0;1
+19/03/2023;Ternana;Bari;1;0;1
+18/03/2023;Reggio Calabria;Cagliari;0;4;-4
+18/03/2023;Ascoli;Venezia;0;1;-1
+18/03/2023;Brescia;Genoa;0;3;-3
+18/03/2023;Cittadella;Perugia;0;2;-2
+18/03/2023;Como;Parma;2;0;2
+18/03/2023;Frosinone;Cosenza;0;1;-1
+18/03/2023;Pisa;Benevento;2;0;2
+18/03/2023;Sudtirol;Spal;2;0;2
+17/03/2023;Palermo;Modena;5;2;3
+12/03/2023;Cosenza;Spal;1;0;1
+12/03/2023;Genoa;Ternana;1;0;1
+11/03/2023;Bari;Frosinone;0;0;0
+11/03/2023;Benevento;Como;0;0;0
+11/03/2023;Cittadella;Palermo;3;3;0
+11/03/2023;Modena;Pisa;1;0;1
+11/03/2023;Parma;Sudtirol;0;0;0
+11/03/2023;Venezia;Brescia;1;1;0
+10/03/2023;Cagliari;Ascoli;4;1;3
+06/03/2023;Genoa;Cosenza;4;0;4
+05/03/2023;Ascoli;Bari;0;1;-1
+05/03/2023;Brescia;Cagliari;1;1;0
+05/03/2023;Como;Modena;1;0;1
+05/03/2023;Frosinone;Venezia;3;0;3
+05/03/2023;Spal;Cittadella;2;1;1
+05/03/2023;Sudtirol;Perugia;2;1;1
+05/03/2023;Ternana;Benevento;2;2;0
+04/03/2023;Reggio Calabria;Parma;0;1;-1
+04/03/2023;Pisa;Palermo;1;1;0
+01/03/2023;Bari;Venezia;1;0;1
+01/03/2023;Benevento;Sudtirol;0;2;-2
+01/03/2023;Cagliari;Genoa;0;0;0
+01/03/2023;Cittadella;Brescia;0;0;0
+01/03/2023;Modena;Ascoli;0;1;-1
+01/03/2023;Perugia;Como;0;0;0
+01/03/2023;Spal;Frosinone;0;2;-2
+28/02/2023;Cosenza;Reggio Calabria;2;1;1
+28/02/2023;Palermo;Ternana;0;0;0
+28/02/2023;Parma;Pisa;0;1;-1
+26/02/2023;Ascoli;Benevento;0;0;0
+25/02/2023;Genoa;Spal;3;0;3
+25/02/2023;Brescia;Bari;0;2;-2
+25/02/2023;Como;Cosenza;5;1;4
+25/02/2023;Reggio Calabria;Modena;2;1;1
+25/02/2023;Sudtirol;Palermo;1;1;0
+25/02/2023;Ternana;Cittadella;1;2;-1
+25/02/2023;Venezia;Cagliari;0;0;0
+24/02/2023;Frosinone;Parma;3;4;-1
+24/02/2023;Pisa;Perugia;2;1;1
+19/02/2023;Modena;Genoa;2;2;0
+18/02/2023;Bari;Cagliari;1;1;0
+18/02/2023;Perugia;Ternana;3;0;3
+18/02/2023;Benevento;Brescia;1;0;1
+18/02/2023;Cittadella;Reggio Calabria;3;2;1
+18/02/2023;Cosenza;Sudtirol;0;0;0
+18/02/2023;Palermo;Frosinone;1;1;0
+18/02/2023;Parma;Ascoli;0;1;-1
+18/02/2023;Spal;Como;1;1;0
+17/02/2023;Pisa;Venezia;1;1;0
+12/02/2023;Bari;Cosenza;2;1;1
+11/02/2023;Ascoli;Perugia;1;0;1
+11/02/2023;Ternana;Parma;1;1;0
+11/02/2023;Brescia;Modena;0;1;-1
+11/02/2023;Cagliari;Benevento;1;0;1
+11/02/2023;Frosinone;Cittadella;3;0;3
+11/02/2023;Reggio Calabria;Pisa;0;2;-2
+11/02/2023;Sudtirol;Como;1;1;0
+11/02/2023;Venezia;Spal;2;1;1
+10/02/2023;Genoa;Palermo;2;0;2
+05/02/2023;Palermo;Reggio Calabria;2;1;1
+05/02/2023;Parma;Genoa;2;0;2
+04/02/2023;Como;Frosinone;0;2;-2
+04/02/2023;Benevento;Venezia;1;2;-1
+04/02/2023;Cittadella;Ascoli;3;0;3
+04/02/2023;Cosenza;Ternana;0;0;0
+04/02/2023;Perugia;Brescia;4;0;4
+04/02/2023;Pisa;Sudtirol;0;1;-1
+04/02/2023;Spal;Bari;3;4;-1
+03/02/2023;Modena;Cagliari;2;0;2
+29/01/2023;Frosinone;Benevento;1;0;1
+29/01/2023;Ascoli;Palermo;1;2;-1
+28/01/2023;Genoa;Pisa;0;0;0
+28/01/2023;Bari;Perugia;0;2;-2
+28/01/2023;Brescia;Como;0;1;-1
+28/01/2023;Cosenza;Parma;1;0;1
+28/01/2023;Sudtirol;Reggio Calabria;2;1;1
+28/01/2023;Ternana;Modena;2;1;1
+28/01/2023;Venezia;Cittadella;1;1;0
+27/01/2023;Cagliari;Spal;2;1;1
+22/01/2023;Brescia;Frosinone;1;3;-2
+21/01/2023;Cittadella;Cagliari;0;0;0
+21/01/2023;Benevento;Genoa;1;2;-1
+21/01/2023;Como;Pisa;2;2;0
+21/01/2023;Modena;Cosenza;2;0;2
+21/01/2023;Parma;Perugia;2;0;2
+21/01/2023;Reggio Calabria;Ternana;2;1;1
+21/01/2023;Spal;Ascoli;1;1;0
+21/01/2023;Venezia;Sudtirol;0;1;-1
+20/01/2023;Palermo;Bari;1;0;1
+16/01/2023;Genoa;Venezia;1;0;1
+15/01/2023;Cosenza;Benevento;1;1;0
+15/01/2023;Ternana;Ascoli;1;0;1
+15/01/2023;Sudtirol;Brescia;1;0;1
+14/01/2023;Frosinone;Modena;2;1;1
+14/01/2023;Bari;Parma;4;0;4
+14/01/2023;Cagliari;Como;2;0;2
+14/01/2023;Perugia;Palermo;3;3;0
+14/01/2023;Pisa;Cittadella;1;2;-1
+14/01/2023;Reggio Calabria;Spal;0;1;-1
+26/12/2022;Bari;Genoa;1;2;-1
+26/12/2022;Frosinone;Ternana;3;0;3
+26/12/2022;Ascoli;Reggio Calabria;0;1;-1
+26/12/2022;Benevento;Perugia;0;2;-2
+26/12/2022;Cagliari;Cosenza;2;0;2
+26/12/2022;Como;Cittadella;2;0;2
+26/12/2022;Spal;Pisa;0;1;-1
+26/12/2022;Sudtirol;Modena;0;2;-2
+26/12/2022;Venezia;Parma;2;2;0
+26/12/2022;Brescia;Palermo;1;1;0
+19/12/2022;Perugia;Venezia;2;1;1
+18/12/2022;Genoa;Frosinone;1;0;1
+18/12/2022;Palermo;Cagliari;2;1;1
+18/12/2022;Cittadella;Sudtirol;0;2;-2
+18/12/2022;Cosenza;Ascoli;1;3;-2
+18/12/2022;Modena;Benevento;1;1;0
+18/12/2022;Parma;Spal;0;1;-1
+18/12/2022;Ternana;Como;0;3;-3
+17/12/2022;Reggio Calabria;Bari;0;0;0
+17/12/2022;Pisa;Brescia;3;0;3
+12/12/2022;Brescia;Parma;0;2;-2
+11/12/2022;Frosinone;Pisa;0;0;0
+11/12/2022;Bari;Modena;4;1;3
+11/12/2022;Ascoli;Genoa;0;0;0
+11/12/2022;Benevento;Cittadella;1;0;1
+11/12/2022;Como;Reggio Calabria;0;1;-1
+11/12/2022;Spal;Palermo;1;1;0
+11/12/2022;Sudtirol;Ternana;0;0;0
+11/12/2022;Venezia;Cosenza;2;0;2
+11/12/2022;Cagliari;Perugia;3;2;1
+08/12/2022;Palermo;Como;0;0;0
+08/12/2022;Pisa;Ascoli;2;0;2
+08/12/2022;Cittadella;Bari;0;3;-3
+08/12/2022;Cosenza;Brescia;1;1;0
+08/12/2022;Genoa;Sudtirol;2;0;2
+08/12/2022;Modena;Venezia;2;2;0
+08/12/2022;Perugia;Spal;0;0;0
+08/12/2022;Reggio Calabria;Frosinone;0;3;-3
+08/12/2022;Parma;Benevento;0;1;-1
+07/12/2022;Ternana;Cagliari;1;0;1
+04/12/2022;Benevento;Palermo;0;1;-1
+04/12/2022;Ascoli;Como;3;3;0
+04/12/2022;Bari;Pisa;0;0;0
+04/12/2022;Brescia;Reggio Calabria;0;2;-2
+04/12/2022;Cosenza;Perugia;0;0;0
+04/12/2022;Genoa;Cittadella;0;1;-1
+04/12/2022;Sudtirol;Frosinone;1;1;0
+04/12/2022;Spal;Modena;2;3;-1
+03/12/2022;Cagliari;Parma;1;1;0
+03/12/2022;Venezia;Ternana;2;1;1
+27/11/2022;Palermo;Venezia;0;1;-1
+27/11/2022;Brescia;Spal;2;0;2
+27/11/2022;Cittadella;Cosenza;1;1;0
+27/11/2022;Como;Bari;1;1;0
+27/11/2022;Frosinone;Cagliari;2;2;0
+27/11/2022;Perugia;Genoa;1;0;1
+27/11/2022;Sudtirol;Ascoli;2;2;0
+27/11/2022;Reggio Calabria;Benevento;2;2;0
+26/11/2022;Pisa;Ternana;3;1;2
+26/11/2022;Parma;Modena;1;2;-1
+13/11/2022;Genoa;Como;1;1;0
+12/11/2022;Ternana;Brescia;0;0;0
+12/11/2022;Bari;Sudtirol;2;2;0
+12/11/2022;Cagliari;Pisa;1;1;0
+12/11/2022;Cosenza;Palermo;3;2;1
+12/11/2022;Modena;Perugia;1;1;0
+12/11/2022;Parma;Cittadella;3;1;2
+12/11/2022;Spal;Benevento;1;2;-1
+12/11/2022;Venezia;Reggio Calabria;1;2;-1
+11/11/2022;Ascoli;Frosinone;0;1;-1
+07/11/2022;Reggio Calabria;Genoa;2;1;1
+06/11/2022;Como;Venezia;1;0;1
+05/11/2022;Frosinone;Perugia;1;0;1
+05/11/2022;Palermo;Parma;1;0;1
+05/11/2022;Benevento;Bari;1;1;0
+05/11/2022;Brescia;Ascoli;1;1;0
+05/11/2022;Cittadella;Modena;0;0;0
+05/11/2022;Pisa;Cosenza;3;1;2
+05/11/2022;Sudtirol;Cagliari;2;2;0
+05/11/2022;Ternana;Spal;0;0;0
+30/10/2022;Perugia;Cittadella;0;2;-2
+29/10/2022;Genoa;Brescia;1;1;0
+29/10/2022;Benevento;Pisa;0;0;0
+29/10/2022;Cagliari;Reggio Calabria;1;1;0
+29/10/2022;Cosenza;Frosinone;1;2;-1
+29/10/2022;Modena;Palermo;0;2;-2
+29/10/2022;Parma;Como;1;0;1
+29/10/2022;Spal;Sudtirol;1;1;0
+29/10/2022;Venezia;Ascoli;0;2;-2
+28/10/2022;Bari;Ternana;0;0;0
+24/10/2022;Ascoli;Cagliari;2;1;1
+23/10/2022;Palermo;Cittadella;0;0;0
+23/10/2022;Pisa;Modena;4;2;2
+22/10/2022;Ternana;Genoa;1;2;-1
+22/10/2022;Brescia;Venezia;1;1;0
+22/10/2022;Como;Benevento;2;1;1
+22/10/2022;Frosinone;Bari;1;0;1
+22/10/2022;Reggio Calabria;Perugia;2;3;-1
+22/10/2022;Spal;Cosenza;5;0;5
+22/10/2022;Sudtirol;Parma;1;0;1
+16/10/2022;Perugia;Sudtirol;1;2;-1
+15/10/2022;Bari;Ascoli;0;2;-2
+15/10/2022;Benevento;Ternana;2;3;-1
+15/10/2022;Cagliari;Brescia;2;1;1
+15/10/2022;Cittadella;Spal;0;0;0
+15/10/2022;Cosenza;Genoa;1;2;-1
+15/10/2022;Modena;Como;5;1;4
+15/10/2022;Palermo;Pisa;3;3;0
+15/10/2022;Parma;Reggio Calabria;2;0;2
+14/10/2022;Venezia;Frosinone;1;3;-2
+09/10/2022;Como;Perugia;1;0;1
+09/10/2022;Sudtirol;Benevento;1;1;0
+08/10/2022;Frosinone;Spal;2;0;2
+08/10/2022;Reggio Calabria;Cosenza;3;0;3
+08/10/2022;Ascoli;Modena;1;2;-1
+08/10/2022;Brescia;Cittadella;1;1;0
+08/10/2022;Pisa;Parma;0;0;0
+08/10/2022;Ternana;Palermo;3;0;3
+08/10/2022;Venezia;Bari;1;2;-1
+07/10/2022;Genoa;Cagliari;0;0;0
+02/10/2022;Benevento;Ascoli;1;1;0
+01/10/2022;Perugia;Pisa;1;3;-2
+01/10/2022;Bari;Brescia;6;2;4
+01/10/2022;Cagliari;Venezia;1;4;-3
+01/10/2022;Cittadella;Ternana;0;2;-2
+01/10/2022;Modena;Reggio Calabria;1;0;1
+01/10/2022;Palermo;Sudtirol;0;1;-1
+01/10/2022;Parma;Frosinone;2;1;1
+01/10/2022;Spal;Genoa;0;2;-2
+30/09/2022;Cosenza;Como;3;1;2
+18/09/2022;Ternana;Perugia;1;0;1
+17/09/2022;Genoa;Modena;1;0;1
+17/09/2022;Ascoli;Parma;1;3;-2
+17/09/2022;Cagliari;Bari;0;1;-1
+17/09/2022;Como;Spal;3;3;0
+17/09/2022;Frosinone;Palermo;1;0;1
+17/09/2022;Reggio Calabria;Cittadella;3;0;3
+17/09/2022;Sudtirol;Cosenza;1;1;0
+17/09/2022;Venezia;Pisa;1;1;0
+16/09/2022;Brescia;Benevento;1;0;1
+11/09/2022;Spal;Venezia;2;0;2
+10/09/2022;Perugia;Ascoli;1;0;1
+10/09/2022;Benevento;Cagliari;0;2;-2
+10/09/2022;Cittadella;Frosinone;1;0;1
+10/09/2022;Como;Sudtirol;0;2;-2
+10/09/2022;Cosenza;Bari;0;1;-1
+10/09/2022;Modena;Brescia;1;3;-2
+10/09/2022;Parma;Ternana;2;3;-1
+10/09/2022;Pisa;Reggio Calabria;0;1;-1
+09/09/2022;Palermo;Genoa;1;0;1
+04/09/2022;Sudtirol;Pisa;2;1;1
+03/09/2022;Genoa;Parma;3;3;0
+03/09/2022;Ascoli;Cittadella;0;0;0
+03/09/2022;Bari;Spal;2;2;0
+03/09/2022;Brescia;Perugia;2;1;1
+03/09/2022;Frosinone;Como;2;0;2
+03/09/2022;Reggio Calabria;Palermo;3;0;3
+03/09/2022;Ternana;Cosenza;1;1;0
+03/09/2022;Venezia;Benevento;0;2;-2
+02/09/2022;Cagliari;Modena;1;0;1
+29/08/2022;Como;Brescia;0;1;-1
+28/08/2022;Benevento;Frosinone;2;1;1
+28/08/2022;Cittadella;Venezia;1;1;0
+28/08/2022;Parma;Cosenza;1;0;1
+28/08/2022;Perugia;Bari;1;3;-2
+28/08/2022;Pisa;Genoa;0;1;-1
+28/08/2022;Reggio Calabria;Sudtirol;4;0;4
+27/08/2022;Modena;Ternana;4;1;3
+27/08/2022;Palermo;Ascoli;2;3;-1
+27/08/2022;Spal;Cagliari;1;0;1
+21/08/2022;Cagliari;Cittadella;2;1;1
+21/08/2022;Cosenza;Modena;2;1;1
+21/08/2022;Frosinone;Brescia;3;0;3
+21/08/2022;Pisa;Como;2;2;0
+21/08/2022;Sudtirol;Venezia;1;2;-1
+21/08/2022;Ternana;Reggio Calabria;1;0;1
+20/08/2022;Ascoli;Spal;1;1;0
+20/08/2022;Genoa;Benevento;0;0;0
+20/08/2022;Perugia;Parma;0;0;0
+19/08/2022;Bari;Palermo;1;1;0
+14/08/2022;Ascoli;Ternana;2;1;1
+14/08/2022;Benevento;Cosenza;0;1;-1
+14/08/2022;Brescia;Sudtirol;2;0;2
+14/08/2022;Modena;Frosinone;0;1;-1
+14/08/2022;Spal;Reggio Calabria;1;3;-2
+14/08/2022;Venezia;Genoa;1;2;-1
+13/08/2022;Cittadella;Pisa;4;3;1
+13/08/2022;Como;Cagliari;1;1;0
+13/08/2022;Palermo;Perugia;2;0;2
+12/08/2022;Parma;Bari;2;2;0

@@ -1,0 +1,381 @@
+DATE;HOME;AWAY;FTHG;FTAG;DIFF
+04/06/2023;Betis;Valencia;1;1;0
+04/06/2023;Celta Vigo;Barcelona;2;1;1
+04/06/2023;Elche;Cadiz CF;1;1;0
+04/06/2023;Espanyol;Almeria;3;3;0
+04/06/2023;Valladolid;Getafe;0;0;0
+04/06/2023;Mallorca;Rayo Vallecano;3;0;3
+04/06/2023;Osasuna;Girona;2;1;1
+04/06/2023;Real Madrid;Ath Bilbao;1;1;0
+04/06/2023;Real Sociedad;Sevilla;2;1;1
+04/06/2023;Villarreal;Atl. Madrid;2;2;0
+28/05/2023;Almeria;Valladolid;0;0;0
+28/05/2023;Ath Bilbao;Elche;0;1;-1
+28/05/2023;Atl. Madrid;Real Sociedad;2;1;1
+28/05/2023;Barcelona;Mallorca;3;0;3
+28/05/2023;Cadiz CF;Celta Vigo;1;0;1
+28/05/2023;Getafe;Osasuna;2;1;1
+28/05/2023;Girona;Betis;1;2;-1
+28/05/2023;Rayo Vallecano;Villarreal;2;1;1
+28/05/2023;Valencia;Espanyol;2;2;0
+27/05/2023;Sevilla;Real Madrid;1;2;-1
+25/05/2023;Osasuna;Ath Bilbao;2;0;2
+25/05/2023;Mallorca;Valencia;1;0;1
+24/05/2023;Betis;Getafe;0;1;-1
+24/05/2023;Espanyol;Atl. Madrid;3;3;0
+24/05/2023;Elche;Sevilla;1;1;0
+24/05/2023;Real Madrid;Rayo Vallecano;2;1;1
+24/05/2023;Villarreal;Cadiz CF;2;0;2
+23/05/2023;Valladolid;Barcelona;3;1;2
+23/05/2023;Celta Vigo;Girona;1;1;0
+23/05/2023;Real Sociedad;Almeria;1;0;1
+21/05/2023;Sevilla;Betis;0;0;0
+21/05/2023;Valencia;Real Madrid;1;0;1
+21/05/2023;Atl. Madrid;Osasuna;3;0;3
+21/05/2023;Rayo Vallecano;Espanyol;1;2;-1
+20/05/2023;Barcelona;Real Sociedad;1;2;-1
+20/05/2023;Almeria;Mallorca;3;0;3
+20/05/2023;Getafe;Elche;1;1;0
+20/05/2023;Ath Bilbao;Celta Vigo;2;1;1
+20/05/2023;Girona;Villarreal;1;2;-1
+19/05/2023;Cadiz CF;Valladolid;2;0;2
+15/05/2023;Betis;Rayo Vallecano;3;1;2
+14/05/2023;Espanyol;Barcelona;2;4;-2
+14/05/2023;Valladolid;Sevilla;0;3;-3
+14/05/2023;Elche;Atl. Madrid;1;0;1
+14/05/2023;Celta Vigo;Valencia;1;2;-1
+13/05/2023;Real Madrid;Getafe;1;0;1
+13/05/2023;Villarreal;Ath Bilbao;5;1;4
+13/05/2023;Osasuna;Almeria;3;1;2
+13/05/2023;Real Sociedad;Girona;2;2;0
+12/05/2023;Mallorca;Cadiz CF;1;0;1
+04/05/2023;Ath Bilbao;Betis;0;1;-1
+04/05/2023;Rayo Vallecano;Valladolid;2;1;1
+04/05/2023;Girona;Mallorca;2;1;1
+04/05/2023;Sevilla;Espanyol;3;2;1
+03/05/2023;Atl. Madrid;Cadiz CF;5;1;4
+03/05/2023;Getafe;Celta Vigo;1;0;1
+03/05/2023;Valencia;Villarreal;1;1;0
+02/05/2023;Real Sociedad;Real Madrid;2;0;2
+02/05/2023;Almeria;Elche;2;1;1
+02/05/2023;Barcelona;Osasuna;1;0;1
+01/05/2023;Sevilla;Girona;0;2;-2
+01/05/2023;Mallorca;Ath Bilbao;1;1;0
+30/04/2023;Valladolid;Atl. Madrid;2;5;-3
+30/04/2023;Espanyol;Getafe;1;0;1
+30/04/2023;Villarreal;Celta Vigo;3;1;2
+30/04/2023;Cadiz CF;Valencia;2;1;1
+29/04/2023;Barcelona;Betis;4;0;4
+29/04/2023;Real Madrid;Almeria;4;2;2
+29/04/2023;Elche;Rayo Vallecano;4;0;4
+28/04/2023;Osasuna;Real Sociedad;0;2;-2
+27/04/2023;Ath Bilbao;Sevilla;0;1;-1
+27/04/2023;Valencia;Valladolid;2;1;1
+27/04/2023;Villarreal;Espanyol;4;2;2
+26/04/2023;Celta Vigo;Elche;1;0;1
+26/04/2023;Rayo Vallecano;Barcelona;2;1;1
+26/04/2023;Atl. Madrid;Mallorca;3;1;2
+26/04/2023;Getafe;Almeria;1;2;-1
+25/04/2023;Betis;Real Sociedad;0;0;0
+25/04/2023;Cadiz CF;Osasuna;0;1;-1
+25/04/2023;Girona;Real Madrid;4;2;2
+23/04/2023;Sevilla;Villarreal;2;1;1
+23/04/2023;Mallorca;Getafe;3;1;2
+23/04/2023;Barcelona;Atl. Madrid;1;0;1
+23/04/2023;Elche;Valencia;0;2;-2
+22/04/2023;Real Madrid;Celta Vigo;2;0;2
+22/04/2023;Real Sociedad;Rayo Vallecano;2;1;1
+22/04/2023;Valladolid;Girona;1;0;1
+22/04/2023;Almeria;Ath Bilbao;1;2;-1
+22/04/2023;Osasuna;Betis;3;2;1
+21/04/2023;Espanyol;Cadiz CF;0;0;0
+17/04/2023;Celta Vigo;Mallorca;0;1;-1
+16/04/2023;Valencia;Sevilla;0;2;-2
+16/04/2023;Atl. Madrid;Almeria;2;1;1
+16/04/2023;Getafe;Barcelona;0;0;0
+16/04/2023;Girona;Elche;2;0;2
+15/04/2023;Cadiz CF;Real Madrid;0;2;-2
+15/04/2023;Betis;Espanyol;3;1;2
+15/04/2023;Ath Bilbao;Real Sociedad;2;0;2
+15/04/2023;Villarreal;Valladolid;1;2;-1
+14/04/2023;Rayo Vallecano;Osasuna;2;1;1
+10/04/2023;Barcelona;Girona;0;0;0
+09/04/2023;Rayo Vallecano;Atl. Madrid;1;2;-1
+09/04/2023;Almeria;Valencia;2;1;1
+09/04/2023;Betis;Cadiz CF;0;2;-2
+09/04/2023;Valladolid;Mallorca;3;3;0
+08/04/2023;Real Madrid;Villarreal;2;3;-1
+08/04/2023;Real Sociedad;Getafe;2;0;2
+08/04/2023;Espanyol;Ath Bilbao;1;2;-1
+08/04/2023;Osasuna;Elche;2;1;1
+07/04/2023;Sevilla;Celta Vigo;2;2;0
+03/04/2023;Valencia;Rayo Vallecano;1;1;0
+02/04/2023;Atl. Madrid;Betis;1;0;1
+02/04/2023;Villarreal;Real Sociedad;2;0;2
+02/04/2023;Real Madrid;Valladolid;6;0;6
+02/04/2023;Celta Vigo;Almeria;2;2;0
+01/04/2023;Elche;Barcelona;0;4;-4
+01/04/2023;Cadiz CF;Sevilla;0;2;-2
+01/04/2023;Ath Bilbao;Getafe;0;0;0
+01/04/2023;Girona;Espanyol;2;1;1
+31/03/2023;Mallorca;Osasuna;0;0;0
+19/03/2023;Barcelona;Real Madrid;2;1;1
+19/03/2023;Getafe;Sevilla;2;0;2
+19/03/2023;Osasuna;Villarreal;0;3;-3
+19/03/2023;Real Sociedad;Elche;2;0;2
+19/03/2023;Betis;Mallorca;1;0;1
+18/03/2023;Atl. Madrid;Valencia;3;0;3
+18/03/2023;Espanyol;Celta Vigo;1;3;-2
+18/03/2023;Rayo Vallecano;Girona;2;2;0
+18/03/2023;Almeria;Cadiz CF;1;1;0
+17/03/2023;Valladolid;Ath Bilbao;1;3;-2
+13/03/2023;Girona;Atl. Madrid;0;1;-1
+12/03/2023;Ath Bilbao;Barcelona;0;1;-1
+12/03/2023;Villarreal;Betis;1;1;0
+12/03/2023;Sevilla;Almeria;2;1;1
+12/03/2023;Mallorca;Real Sociedad;1;1;0
+11/03/2023;Valencia;Osasuna;1;0;1
+11/03/2023;Celta Vigo;Rayo Vallecano;3;0;3
+11/03/2023;Elche;Valladolid;1;1;0
+11/03/2023;Real Madrid;Espanyol;3;1;2
+10/03/2023;Cadiz CF;Getafe;2;2;0
+06/03/2023;Osasuna;Celta Vigo;0;0;0
+05/03/2023;Betis;Real Madrid;0;0;0
+05/03/2023;Rayo Vallecano;Ath Bilbao;0;0;0
+05/03/2023;Barcelona;Valencia;1;0;1
+05/03/2023;Valladolid;Espanyol;2;1;1
+04/03/2023;Atl. Madrid;Sevilla;6;1;5
+04/03/2023;Mallorca;Elche;0;1;-1
+04/03/2023;Almeria;Villarreal;0;2;-2
+04/03/2023;Getafe;Girona;3;2;1
+03/03/2023;Real Sociedad;Cadiz CF;0;0;0
+27/02/2023;Villarreal;Getafe;2;1;1
+26/02/2023;Sevilla;Osasuna;2;3;-1
+26/02/2023;Almeria;Barcelona;1;0;1
+26/02/2023;Celta Vigo;Valladolid;3;0;3
+26/02/2023;Ath Bilbao;Girona;2;3;-1
+25/02/2023;Valencia;Real Sociedad;1;0;1
+25/02/2023;Real Madrid;Atl. Madrid;1;1;0
+25/02/2023;Cadiz CF;Rayo Vallecano;1;0;1
+25/02/2023;Espanyol;Mallorca;2;1;1
+24/02/2023;Elche;Betis;2;3;-1
+20/02/2023;Getafe;Valencia;1;0;1
+19/02/2023;Barcelona;Cadiz CF;2;0;2
+19/02/2023;Atl. Madrid;Ath Bilbao;1;0;1
+19/02/2023;Rayo Vallecano;Sevilla;1;1;0
+19/02/2023;Elche;Espanyol;0;1;-1
+18/02/2023;Osasuna;Real Madrid;0;2;-2
+18/02/2023;Mallorca;Villarreal;4;2;2
+18/02/2023;Betis;Valladolid;2;1;1
+18/02/2023;Real Sociedad;Celta Vigo;1;1;0
+17/02/2023;Girona;Almeria;6;2;4
+15/02/2023;Real Madrid;Elche;4;0;4
+13/02/2023;Espanyol;Real Sociedad;2;3;-1
+12/02/2023;Villarreal;Barcelona;0;1;-1
+12/02/2023;Valladolid;Osasuna;0;0;0
+12/02/2023;Celta Vigo;Atl. Madrid;0;1;-1
+12/02/2023;Getafe;Rayo Vallecano;1;1;0
+11/02/2023;Valencia;Ath Bilbao;1;2;-1
+11/02/2023;Sevilla;Mallorca;2;0;2
+11/02/2023;Almeria;Betis;2;3;-1
+10/02/2023;Cadiz CF;Girona;2;0;2
+06/02/2023;Rayo Vallecano;Almeria;2;0;2
+05/02/2023;Barcelona;Sevilla;3;0;3
+05/02/2023;Real Sociedad;Valladolid;0;1;-1
+05/02/2023;Girona;Valencia;1;0;1
+05/02/2023;Mallorca;Real Madrid;1;0;1
+04/02/2023;Betis;Celta Vigo;3;4;-1
+04/02/2023;Atl. Madrid;Getafe;1;1;0
+04/02/2023;Elche;Villarreal;3;1;2
+04/02/2023;Espanyol;Osasuna;1;1;0
+03/02/2023;Ath Bilbao;Cadiz CF;4;1;3
+02/02/2023;Real Madrid;Valencia;2;0;2
+01/02/2023;Betis;Barcelona;1;2;-1
+30/01/2023;Villarreal;Rayo Vallecano;0;1;-1
+29/01/2023;Real Madrid;Real Sociedad;0;0;0
+29/01/2023;Celta Vigo;Ath Bilbao;1;0;1
+29/01/2023;Osasuna;Atl. Madrid;0;1;-1
+29/01/2023;Valladolid;Valencia;1;0;1
+28/01/2023;Getafe;Betis;0;1;-1
+28/01/2023;Sevilla;Elche;3;0;3
+28/01/2023;Girona;Barcelona;0;1;-1
+28/01/2023;Cadiz CF;Mallorca;2;0;2
+27/01/2023;Almeria;Espanyol;3;1;2
+23/01/2023;Valencia;Almeria;2;2;0
+22/01/2023;Ath Bilbao;Real Madrid;0;2;-2
+22/01/2023;Barcelona;Getafe;1;0;1
+22/01/2023;Elche;Osasuna;1;1;0
+22/01/2023;Villarreal;Girona;1;0;1
+21/01/2023;Sevilla;Cadiz CF;1;0;1
+21/01/2023;Atl. Madrid;Valladolid;3;0;3
+21/01/2023;Espanyol;Betis;1;0;1
+21/01/2023;Rayo Vallecano;Real Sociedad;0;2;-2
+20/01/2023;Mallorca;Celta Vigo;1;0;1
+16/01/2023;Cadiz CF;Elche;1;1;0
+15/01/2023;Almeria;Atl. Madrid;1;1;0
+15/01/2023;Getafe;Espanyol;1;2;-1
+14/01/2023;Real Sociedad;Ath Bilbao;3;1;2
+14/01/2023;Osasuna;Mallorca;1;0;1
+14/01/2023;Girona;Sevilla;2;1;1
+14/01/2023;Valladolid;Rayo Vallecano;0;1;-1
+13/01/2023;Celta Vigo;Villarreal;1;1;0
+09/01/2023;Ath Bilbao;Osasuna;0;0;0
+08/01/2023;Atl. Madrid;Barcelona;0;1;-1
+08/01/2023;Sevilla;Getafe;2;1;1
+08/01/2023;Rayo Vallecano;Betis;1;2;-1
+08/01/2023;Almeria;Real Sociedad;0;2;-2
+07/01/2023;Espanyol;Girona;2;2;0
+07/01/2023;Mallorca;Valladolid;1;0;1
+07/01/2023;Villarreal;Real Madrid;2;1;1
+06/01/2023;Valencia;Cadiz CF;0;1;-1
+06/01/2023;Elche;Celta Vigo;0;1;-1
+31/12/2022;Real Sociedad;Osasuna;2;0;2
+31/12/2022;Villarreal;Valencia;2;1;1
+31/12/2022;Barcelona;Espanyol;1;1;0
+30/12/2022;Valladolid;Real Madrid;0;2;-2
+30/12/2022;Cadiz CF;Almeria;1;1;0
+30/12/2022;Celta Vigo;Sevilla;1;1;0
+30/12/2022;Getafe;Mallorca;2;0;2
+29/12/2022;Atl. Madrid;Elche;2;0;2
+29/12/2022;Betis;Ath Bilbao;0;0;0
+29/12/2022;Girona;Rayo Vallecano;2;2;0
+10/11/2022;Real Madrid;Cadiz CF;2;1;1
+10/11/2022;Valencia;Betis;3;0;3
+10/11/2022;Rayo Vallecano;Celta Vigo;0;0;0
+09/11/2022;Mallorca;Atl. Madrid;1;0;1
+09/11/2022;Espanyol;Villarreal;0;1;-1
+09/11/2022;Almeria;Getafe;1;0;1
+09/11/2022;Sevilla;Real Sociedad;1;2;-1
+08/11/2022;Osasuna;Barcelona;1;2;-1
+08/11/2022;Ath Bilbao;Valladolid;3;0;3
+08/11/2022;Elche;Girona;1;2;-1
+07/11/2022;Rayo Vallecano;Real Madrid;3;2;1
+06/11/2022;Betis;Sevilla;1;1;0
+06/11/2022;Villarreal;Mallorca;0;2;-2
+06/11/2022;Real Sociedad;Valencia;1;1;0
+06/11/2022;Atl. Madrid;Espanyol;1;1;0
+05/11/2022;Barcelona;Almeria;2;0;2
+05/11/2022;Celta Vigo;Osasuna;1;2;-1
+05/11/2022;Valladolid;Elche;2;1;1
+05/11/2022;Getafe;Cadiz CF;0;0;0
+04/11/2022;Girona;Ath Bilbao;2;1;1
+31/10/2022;Elche;Getafe;0;1;-1
+30/10/2022;Real Sociedad;Betis;0;2;-2
+30/10/2022;Ath Bilbao;Villarreal;1;0;1
+30/10/2022;Real Madrid;Girona;1;1;0
+30/10/2022;Osasuna;Valladolid;2;0;2
+29/10/2022;Valencia;Barcelona;0;1;-1
+29/10/2022;Sevilla;Rayo Vallecano;0;1;-1
+29/10/2022;Cadiz CF;Atl. Madrid;3;2;1
+29/10/2022;Almeria;Celta Vigo;3;1;2
+28/10/2022;Mallorca;Espanyol;1;1;0
+24/10/2022;Celta Vigo;Getafe;1;1;0
+23/10/2022;Barcelona;Ath Bilbao;4;0;4
+23/10/2022;Girona;Osasuna;1;1;0
+23/10/2022;Villarreal;Almeria;2;1;1
+23/10/2022;Betis;Atl. Madrid;1;2;-1
+23/10/2022;Espanyol;Elche;2;2;0
+22/10/2022;Real Madrid;Sevilla;3;1;2
+22/10/2022;Valencia;Mallorca;1;2;-1
+22/10/2022;Valladolid;Real Sociedad;1;0;1
+22/10/2022;Rayo Vallecano;Cadiz CF;5;1;4
+20/10/2022;Barcelona;Villarreal;3;0;3
+20/10/2022;Osasuna;Espanyol;1;0;1
+20/10/2022;Almeria;Girona;3;2;1
+19/10/2022;Elche;Real Madrid;0;3;-3
+19/10/2022;Real Sociedad;Mallorca;1;0;1
+19/10/2022;Cadiz CF;Betis;0;0;0
+19/10/2022;Valladolid;Celta Vigo;4;1;3
+18/10/2022;Atl. Madrid;Rayo Vallecano;1;1;0
+18/10/2022;Getafe;Ath Bilbao;2;2;0
+18/10/2022;Sevilla;Valencia;1;1;0
+17/10/2022;Villarreal;Osasuna;2;0;2
+16/10/2022;Betis;Almeria;3;1;2
+16/10/2022;Espanyol;Valladolid;1;0;1
+16/10/2022;Real Madrid;Barcelona;3;1;2
+16/10/2022;Celta Vigo;Real Sociedad;1;2;-1
+15/10/2022;Ath Bilbao;Atl. Madrid;0;1;-1
+15/10/2022;Mallorca;Sevilla;0;1;-1
+15/10/2022;Valencia;Elche;2;2;0
+15/10/2022;Girona;Cadiz CF;1;1;0
+14/10/2022;Rayo Vallecano;Getafe;0;0;0
+10/10/2022;Elche;Mallorca;1;1;0
+09/10/2022;Barcelona;Celta Vigo;1;0;1
+09/10/2022;Real Sociedad;Villarreal;1;0;1
+09/10/2022;Cadiz CF;Espanyol;2;2;0
+09/10/2022;Valladolid;Betis;0;0;0
+08/10/2022;Getafe;Real Madrid;0;1;-1
+08/10/2022;Sevilla;Ath Bilbao;1;1;0
+08/10/2022;Atl. Madrid;Girona;2;1;1
+08/10/2022;Almeria;Rayo Vallecano;3;1;2
+07/10/2022;Osasuna;Valencia;1;2;-1
+03/10/2022;Rayo Vallecano;Elche;2;1;1
+02/10/2022;Real Madrid;Osasuna;1;1;0
+02/10/2022;Girona;Real Sociedad;3;5;-2
+02/10/2022;Celta Vigo;Betis;1;0;1
+02/10/2022;Espanyol;Valencia;2;2;0
+01/10/2022;Mallorca;Barcelona;0;1;-1
+01/10/2022;Sevilla;Atl. Madrid;0;2;-2
+01/10/2022;Getafe;Valladolid;2;3;-1
+01/10/2022;Cadiz CF;Villarreal;0;0;0
+30/09/2022;Ath Bilbao;Almeria;4;0;4
+18/09/2022;Atl. Madrid;Real Madrid;1;2;-1
+18/09/2022;Betis;Girona;2;1;1
+18/09/2022;Real Sociedad;Espanyol;2;1;1
+18/09/2022;Villarreal;Sevilla;1;1;0
+18/09/2022;Osasuna;Getafe;0;2;-2
+17/09/2022;Ath Bilbao;Rayo Vallecano;3;2;1
+17/09/2022;Valencia;Celta Vigo;3;0;3
+17/09/2022;Barcelona;Elche;3;0;3
+17/09/2022;Mallorca;Almeria;1;0;1
+16/09/2022;Valladolid;Cadiz CF;0;1;-1
+12/09/2022;Almeria;Osasuna;0;1;-1
+11/09/2022;Betis;Villarreal;1;0;1
+11/09/2022;Getafe;Real Sociedad;2;1;1
+11/09/2022;Elche;Ath Bilbao;1;4;-3
+11/09/2022;Real Madrid;Mallorca;4;1;3
+10/09/2022;Atl. Madrid;Celta Vigo;4;1;3
+10/09/2022;Cadiz CF;Barcelona;0;4;-4
+10/09/2022;Espanyol;Sevilla;2;3;-1
+10/09/2022;Rayo Vallecano;Valencia;2;1;1
+09/09/2022;Girona;Valladolid;2;1;1
+05/09/2022;Valladolid;Almeria;1;0;1
+04/09/2022;Valencia;Getafe;5;1;4
+04/09/2022;Villarreal;Elche;4;0;4
+04/09/2022;Ath Bilbao;Espanyol;0;1;-1
+04/09/2022;Osasuna;Rayo Vallecano;2;1;1
+03/09/2022;Sevilla;Barcelona;0;3;-3
+03/09/2022;Real Sociedad;Atl. Madrid;1;1;0
+03/09/2022;Real Madrid;Betis;2;1;1
+03/09/2022;Mallorca;Girona;1;1;0
+02/09/2022;Celta Vigo;Cadiz CF;3;0;3
+29/08/2022;Valencia;Atl. Madrid;0;1;-1
+29/08/2022;Cadiz CF;Ath Bilbao;0;4;-4
+28/08/2022;Espanyol;Real Madrid;1;3;-2
+28/08/2022;Barcelona;Valladolid;4;0;4
+28/08/2022;Getafe;Villarreal;0;0;0
+27/08/2022;Almeria;Sevilla;2;1;1
+27/08/2022;Rayo Vallecano;Mallorca;0;2;-2
+27/08/2022;Elche;Real Sociedad;0;1;-1
+26/08/2022;Betis;Osasuna;1;0;1
+26/08/2022;Girona;Celta Vigo;0;1;-1
+22/08/2022;Girona;Getafe;3;1;2
+22/08/2022;Elche;Almeria;1;1;0
+21/08/2022;Real Sociedad;Barcelona;1;4;-3
+21/08/2022;Atl. Madrid;Villarreal;0;2;-2
+21/08/2022;Ath Bilbao;Valencia;1;0;1
+20/08/2022;Celta Vigo;Real Madrid;1;4;-3
+20/08/2022;Mallorca;Betis;1;2;-1
+20/08/2022;Osasuna;Cadiz CF;2;0;2
+19/08/2022;Sevilla;Valladolid;1;1;0
+19/08/2022;Espanyol;Rayo Vallecano;0;2;-2
+15/08/2022;Betis;Elche;3;0;3
+15/08/2022;Getafe;Atl. Madrid;0;3;-3
+15/08/2022;Ath Bilbao;Mallorca;0;0;0
+14/08/2022;Almeria;Real Madrid;1;2;-1
+14/08/2022;Valencia;Girona;1;0;1
+14/08/2022;Cadiz CF;Real Sociedad;0;1;-1
+13/08/2022;Barcelona;Rayo Vallecano;0;0;0
+13/08/2022;Valladolid;Villarreal;0;3;-3
+13/08/2022;Celta Vigo;Espanyol;2;2;0
+12/08/2022;Osasuna;Sevilla;2;1;1

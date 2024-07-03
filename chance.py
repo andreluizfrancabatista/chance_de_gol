@@ -51,7 +51,7 @@ def add_scores_to_new_csv(solution, new_file_path):
 
 
 # Definir a Série A ou Série B
-serie = 'd'
+serie = 'a'
 # O arquivo CSV deve estar no seguinte formato
 # HOME;AWAY;FTHG;FTAG;DIFF
 # Caminho para o arquivo CSV

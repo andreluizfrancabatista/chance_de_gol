@@ -1,0 +1,469 @@
+DATE;HOME;AWAY;FTHG;FTAG;DIFF
+23/06/2024;Espanyol;R. Oviedo;2;0;2
+16/06/2024;R. Oviedo;Espanyol;1;0;1
+13/06/2024;Espanyol;Gijon;0;0;0
+12/06/2024;Eibar;R. Oviedo;0;2;-2
+09/06/2024;Gijon;Espanyol;0;1;-1
+08/06/2024;R. Oviedo;Eibar;0;0;0
+02/06/2024;Zaragoza;Albacete;1;1;0
+02/06/2024;Eibar;R. Oviedo;4;3;1
+02/06/2024;Eldense;Gijon;0;1;-1
+02/06/2024;Espanyol;FC Cartagena SAD;3;0;3
+02/06/2024;Leganes;Elche;2;0;2
+02/06/2024;Mirandes;Amorebieta;1;0;1
+02/06/2024;Tenerife;Valladolid;2;1;1
+02/06/2024;Villarreal B;Racing Santander;1;0;1
+02/06/2024;Alcorcon;Burgos CF;1;1;0
+02/06/2024;Andorra;Ferrol;1;0;1
+02/06/2024;Huesca;Levante;0;0;0
+26/05/2024;Albacete;Mirandes;2;2;0
+26/05/2024;Amorebieta;Espanyol;0;0;0
+26/05/2024;Burgos CF;Tenerife;1;1;0
+26/05/2024;Elche;Eldense;1;2;-1
+26/05/2024;FC Cartagena SAD;Huesca;0;2;-2
+26/05/2024;Ferrol;Leganes;2;2;0
+26/05/2024;Gijon;Eibar;1;0;1
+26/05/2024;Levante;Alcorcon;2;2;0
+26/05/2024;R. Oviedo;Andorra;3;0;3
+26/05/2024;Racing Santander;Zaragoza;0;2;-2
+26/05/2024;Valladolid;Villarreal B;3;2;1
+20/05/2024;Espanyol;R. Oviedo;2;1;1
+20/05/2024;Villarreal B;Albacete;2;2;0
+19/05/2024;Zaragoza;Ferrol;2;2;0
+19/05/2024;Alcorcon;Valladolid;1;1;0
+19/05/2024;Eibar;FC Cartagena SAD;1;0;1
+18/05/2024;Eldense;Levante;0;0;0
+18/05/2024;Tenerife;Amorebieta;0;1;-1
+18/05/2024;Huesca;Racing Santander;0;3;-3
+18/05/2024;Leganes;Gijon;2;1;1
+18/05/2024;Andorra;Burgos CF;1;0;1
+17/05/2024;Mirandes;Elche;1;1;0
+12/05/2024;Elche;Huesca;0;3;-3
+12/05/2024;Albacete;Leganes;1;0;1
+12/05/2024;FC Cartagena SAD;Tenerife;2;0;2
+12/05/2024;R. Oviedo;Zaragoza;1;0;1
+12/05/2024;Amorebieta;Villarreal B;2;0;2
+11/05/2024;Levante;Eibar;2;2;0
+11/05/2024;Valladolid;Espanyol;0;0;0
+11/05/2024;Ferrol;Alcorcon;2;1;1
+11/05/2024;Gijon;Andorra;5;2;3
+11/05/2024;Racing Santander;Mirandes;1;0;1
+10/05/2024;Burgos CF;Eldense;1;2;-1
+05/05/2024;Tenerife;Ferrol;2;0;2
+05/05/2024;Eldense;Leganes;1;2;-1
+05/05/2024;Zaragoza;Burgos CF;1;3;-2
+05/05/2024;Andorra;Albacete;0;1;-1
+05/05/2024;Espanyol;Gijon;0;0;0
+05/05/2024;Eibar;Amorebieta;5;0;5
+04/05/2024;FC Cartagena SAD;Alcorcon;1;0;1
+04/05/2024;Racing Santander;Elche;3;1;2
+04/05/2024;Huesca;R. Oviedo;0;2;-2
+04/05/2024;Mirandes;Valladolid;0;1;-1
+03/05/2024;Villarreal B;Levante;0;3;-3
+29/04/2024;Ferrol;Mirandes;0;2;-2
+28/04/2024;Albacete;Eibar;2;1;1
+28/04/2024;Levante;FC Cartagena SAD;0;1;-1
+28/04/2024;Valladolid;Huesca;1;0;1
+28/04/2024;Alcorcon;Eldense;0;0;0
+28/04/2024;R. Oviedo;Tenerife;0;1;-1
+28/04/2024;Gijon;Villarreal B;0;3;-3
+27/04/2024;Elche;Espanyol;2;2;0
+27/04/2024;Burgos CF;Amorebieta;2;2;0
+27/04/2024;Leganes;Zaragoza;1;1;0
+26/04/2024;Andorra;Racing Santander;1;1;0
+22/04/2024;FC Cartagena SAD;R. Oviedo;2;0;2
+21/04/2024;Mirandes;Burgos CF;2;1;1
+21/04/2024;Eibar;Alcorcon;2;0;2
+21/04/2024;Eldense;Albacete;0;1;-1
+21/04/2024;Espanyol;Andorra;1;1;0
+20/04/2024;Huesca;Zaragoza;1;2;-1
+20/04/2024;Elche;Gijon;2;1;1
+20/04/2024;Racing Santander;Levante;0;0;0
+20/04/2024;Villarreal B;Ferrol;1;0;1
+20/04/2024;Amorebieta;Valladolid;0;3;-3
+19/04/2024;Tenerife;Leganes;0;0;0
+15/04/2024;Alcorcon;Villarreal B;1;0;1
+14/04/2024;Ferrol;Huesca;2;1;1
+14/04/2024;Burgos CF;Racing Santander;2;1;1
+14/04/2024;Zaragoza;Elche;1;1;0
+14/04/2024;Albacete;Tenerife;1;0;1
+14/04/2024;Andorra;Eibar;0;2;-2
+14/04/2024;R. Oviedo;Mirandes;1;1;0
+13/04/2024;Levante;Amorebieta;1;2;-1
+13/04/2024;Valladolid;Eldense;1;0;1
+13/04/2024;Gijon;FC Cartagena SAD;1;0;1
+12/04/2024;Leganes;Espanyol;0;0;0
+08/04/2024;Racing Santander;Alcorcon;0;1;-1
+07/04/2024;FC Cartagena SAD;Valladolid;0;2;-2
+07/04/2024;Espanyol;Albacete;2;1;1
+07/04/2024;Tenerife;Eibar;2;1;1
+07/04/2024;Mirandes;Gijon;1;3;-2
+07/04/2024;Villarreal B;Burgos CF;2;1;1
+07/04/2024;Huesca;Leganes;0;0;0
+06/04/2024;Levante;Zaragoza;2;1;1
+06/04/2024;Eldense;Andorra;0;2;-2
+05/04/2024;Amorebieta;Ferrol;3;1;2
+05/04/2024;Elche;R. Oviedo;0;2;-2
+31/03/2024;R. Oviedo;Villarreal B;2;1;1
+31/03/2024;Ferrol;Elche;1;0;1
+31/03/2024;Zaragoza;Tenerife;3;1;2
+31/03/2024;Alcorcon;Amorebieta;1;1;0
+30/03/2024;Albacete;Huesca;1;1;0
+30/03/2024;Gijon;Racing Santander;2;3;-1
+30/03/2024;Andorra;Mirandes;1;0;1
+30/03/2024;Eibar;Eldense;5;1;4
+30/03/2024;Leganes;FC Cartagena SAD;0;0;0
+30/03/2024;Valladolid;Levante;0;0;0
+29/03/2024;Burgos CF;Espanyol;0;0;0
+25/03/2024;Albacete;Ferrol;1;1;0
+24/03/2024;Racing Santander;Eldense;2;1;1
+24/03/2024;Levante;Elche;3;2;1
+24/03/2024;Mirandes;Zaragoza;0;0;0
+24/03/2024;Huesca;Burgos CF;3;0;3
+24/03/2024;Valladolid;Eibar;3;1;2
+24/03/2024;Amorebieta;Gijon;3;1;2
+23/03/2024;Espanyol;Tenerife;1;1;0
+23/03/2024;FC Cartagena SAD;Andorra;1;0;1
+23/03/2024;Villarreal B;Leganes;1;2;-1
+23/03/2024;Alcorcon;R. Oviedo;1;0;1
+18/03/2024;Andorra;Amorebieta;0;1;-1
+17/03/2024;Elche;Albacete;3;2;1
+17/03/2024;Zaragoza;Espanyol;0;1;-1
+17/03/2024;Ferrol;Valladolid;2;0;2
+17/03/2024;Leganes;Mirandes;4;0;4
+16/03/2024;Gijon;Alcorcon;1;0;1
+16/03/2024;R. Oviedo;Racing Santander;1;1;0
+16/03/2024;Tenerife;Huesca;0;0;0
+16/03/2024;Eibar;Villarreal B;2;0;2
+16/03/2024;Burgos CF;Levante;1;1;0
+15/03/2024;Eldense;FC Cartagena SAD;0;0;0
+13/03/2024;Levante;Andorra;0;0;0
+11/03/2024;Amorebieta;Leganes;0;1;-1
+10/03/2024;Alcorcon;Espanyol;1;1;0
+10/03/2024;Eibar;Burgos CF;0;1;-1
+10/03/2024;Levante;Gijon;1;0;1
+10/03/2024;Villarreal B;Elche;0;1;-1
+10/03/2024;Racing Santander;Tenerife;4;2;2
+09/03/2024;FC Cartagena SAD;Ferrol;2;1;1
+09/03/2024;Mirandes;Eldense;3;1;2
+09/03/2024;Valladolid;Zaragoza;2;0;2
+09/03/2024;Albacete;R. Oviedo;1;2;-1
+08/03/2024;Huesca;Andorra;2;0;2
+04/03/2024;Elche;Alcorcon;3;0;3
+03/03/2024;Leganes;Eibar;0;2;-2
+03/03/2024;Zaragoza;Amorebieta;0;1;-1
+03/03/2024;Tenerife;Mirandes;2;1;1
+03/03/2024;Andorra;Valladolid;2;1;1
+02/03/2024;Burgos CF;FC Cartagena SAD;3;0;3
+02/03/2024;R. Oviedo;Levante;3;2;1
+02/03/2024;Espanyol;Huesca;0;0;0
+02/03/2024;Ferrol;Racing Santander;2;2;0
+02/03/2024;Eldense;Villarreal B;2;0;2
+01/03/2024;Gijon;Albacete;2;1;1
+26/02/2024;Mirandes;Huesca;0;3;-3
+25/02/2024;Amorebieta;Albacete;1;1;0
+25/02/2024;FC Cartagena SAD;Elche;0;1;-1
+25/02/2024;Alcorcon;Tenerife;1;1;0
+25/02/2024;Burgos CF;Gijon;1;0;1
+25/02/2024;Eldense;Ferrol;2;0;2
+24/02/2024;Eibar;Espanyol;2;3;-1
+24/02/2024;Villarreal B;Zaragoza;0;0;0
+24/02/2024;Racing Santander;Leganes;2;1;1
+23/02/2024;Valladolid;R. Oviedo;3;0;3
+19/02/2024;Tenerife;Eldense;1;0;1
+18/02/2024;Elche;Eibar;0;0;0
+18/02/2024;Huesca;Amorebieta;0;0;0
+18/02/2024;Ferrol;Levante;0;0;0
+18/02/2024;Leganes;Alcorcon;3;0;3
+18/02/2024;Albacete;Racing Santander;2;0;2
+17/02/2024;Espanyol;Mirandes;3;0;3
+17/02/2024;Gijon;Valladolid;1;1;0
+17/02/2024;Andorra;Villarreal B;1;1;0
+17/02/2024;R. Oviedo;Burgos CF;5;0;5
+16/02/2024;Zaragoza;FC Cartagena SAD;1;2;-1
+12/02/2024;Valladolid;Albacete;0;0;0
+11/02/2024;Burgos CF;Ferrol;2;0;2
+11/02/2024;Eibar;Zaragoza;1;0;1
+11/02/2024;Alcorcon;Andorra;1;0;1
+11/02/2024;FC Cartagena SAD;Mirandes;1;0;1
+11/02/2024;Villarreal B;Tenerife;1;0;1
+10/02/2024;Racing Santander;Espanyol;2;0;2
+10/02/2024;Gijon;R. Oviedo;1;0;1
+10/02/2024;Amorebieta;Elche;1;0;1
+10/02/2024;Eldense;Huesca;0;0;0
+09/02/2024;Levante;Leganes;0;0;0
+05/02/2024;Zaragoza;Gijon;3;0;3
+04/02/2024;Espanyol;Levante;2;1;1
+04/02/2024;Amorebieta;Racing Santander;0;1;-1
+04/02/2024;R. Oviedo;Eldense;1;1;0
+04/02/2024;Ferrol;Eibar;1;1;0
+03/02/2024;Tenerife;Andorra;0;0;0
+03/02/2024;Leganes;Valladolid;0;0;0
+03/02/2024;Huesca;Alcorcon;1;0;1
+03/02/2024;Mirandes;Villarreal B;3;0;3
+03/02/2024;Albacete;FC Cartagena SAD;1;1;0
+02/02/2024;Elche;Burgos CF;2;0;2
+29/01/2024;Valladolid;Racing Santander;3;1;2
+28/01/2024;Gijon;Ferrol;1;2;-1
+28/01/2024;Burgos CF;Albacete;2;1;1
+28/01/2024;Andorra;Elche;0;1;-1
+28/01/2024;Villarreal B;Huesca;1;1;0
+28/01/2024;Eldense;Espanyol;3;2;1
+27/01/2024;Levante;Tenerife;0;0;0
+27/01/2024;R. Oviedo;Leganes;1;0;1
+27/01/2024;Alcorcon;Zaragoza;0;0;0
+27/01/2024;FC Cartagena SAD;Amorebieta;1;0;1
+26/01/2024;Eibar;Mirandes;1;0;1
+22/01/2024;Leganes;Burgos CF;2;0;2
+21/01/2024;Elche;Valladolid;0;0;0
+21/01/2024;Huesca;Eibar;2;3;-1
+21/01/2024;Mirandes;Levante;1;1;0
+21/01/2024;Racing Santander;FC Cartagena SAD;0;2;-2
+20/01/2024;Ferrol;R. Oviedo;1;3;-2
+20/01/2024;Espanyol;Villarreal B;2;1;1
+20/01/2024;Tenerife;Gijon;1;2;-1
+20/01/2024;Amorebieta;Eldense;0;2;-2
+20/01/2024;Zaragoza;Andorra;2;0;2
+20/01/2024;Albacete;Alcorcon;0;1;-1
+15/01/2024;Eldense;Zaragoza;1;1;0
+14/01/2024;FC Cartagena SAD;Villarreal B;4;1;3
+14/01/2024;Gijon;Huesca;0;0;0
+14/01/2024;Andorra;Leganes;2;3;-1
+13/01/2024;Burgos CF;Valladolid;1;0;1
+13/01/2024;Ferrol;Espanyol;0;0;0
+13/01/2024;R. Oviedo;Amorebieta;1;1;0
+13/01/2024;Tenerife;Elche;0;1;-1
+13/01/2024;Levante;Albacete;3;2;1
+13/01/2024;Alcorcon;Mirandes;0;0;0
+12/01/2024;Eibar;Racing Santander;2;0;2
+21/12/2023;Amorebieta;Alcorcon;1;2;-1
+21/12/2023;Valladolid;Ferrol;0;1;-1
+21/12/2023;Huesca;FC Cartagena SAD;3;0;3
+21/12/2023;Villarreal B;R. Oviedo;1;1;0
+20/12/2023;Eibar;Gijon;1;1;0
+20/12/2023;Leganes;Tenerife;1;1;0
+20/12/2023;Zaragoza;Levante;2;2;0
+19/12/2023;Elche;Mirandes;0;0;0
+19/12/2023;Espanyol;Burgos CF;3;3;0
+19/12/2023;Albacete;Eldense;1;1;0
+19/12/2023;Racing Santander;Andorra;2;0;2
+18/12/2023;Villarreal B;Valladolid;1;0;1
+17/12/2023;Ferrol;Tenerife;3;1;2
+17/12/2023;Amorebieta;Zaragoza;1;1;0
+17/12/2023;Levante;Huesca;2;1;1
+17/12/2023;Alcorcon;Eibar;1;0;1
+16/12/2023;Mirandes;Albacete;2;0;2
+16/12/2023;FC Cartagena SAD;Burgos CF;0;3;-3
+16/12/2023;Gijon;Leganes;1;1;0
+16/12/2023;Andorra;Espanyol;1;1;0
+16/12/2023;Eldense;Racing Santander;3;3;0
+15/12/2023;R. Oviedo;Elche;3;2;1
+11/12/2023;Tenerife;Alcorcon;1;0;1
+10/12/2023;Huesca;Ferrol;1;0;1
+10/12/2023;Eibar;Andorra;2;2;0
+10/12/2023;Leganes;Eldense;1;1;0
+10/12/2023;Racing Santander;R. Oviedo;2;2;0
+10/12/2023;Elche;FC Cartagena SAD;1;2;-1
+09/12/2023;Burgos CF;Mirandes;0;0;0
+09/12/2023;Gijon;Levante;0;0;0
+09/12/2023;Valladolid;Amorebieta;2;1;1
+08/12/2023;Espanyol;Zaragoza;1;1;0
+08/12/2023;Albacete;Villarreal B;2;0;2
+04/12/2023;Villarreal B;Eibar;1;0;1
+03/12/2023;Amorebieta;Burgos CF;0;1;-1
+03/12/2023;Ferrol;Albacete;5;4;1
+03/12/2023;Mirandes;Racing Santander;0;0;0
+03/12/2023;Alcorcon;Elche;0;2;-2
+03/12/2023;Andorra;Huesca;1;0;1
+02/12/2023;Levante;Valladolid;2;1;1
+02/12/2023;Zaragoza;Leganes;1;0;1
+02/12/2023;Eldense;Tenerife;0;3;-3
+02/12/2023;FC Cartagena SAD;Gijon;1;0;1
+01/12/2023;R. Oviedo;Espanyol;2;0;2
+27/11/2023;Gijon;Eldense;2;0;2
+26/11/2023;Espanyol;Alcorcon;2;0;2
+26/11/2023;Tenerife;FC Cartagena SAD;1;1;0
+26/11/2023;Elche;Amorebieta;2;0;2
+26/11/2023;Mirandes;R. Oviedo;2;1;1
+26/11/2023;Leganes;Ferrol;2;2;0
+25/11/2023;Eibar;Levante;3;1;2
+25/11/2023;Albacete;Zaragoza;1;0;1
+25/11/2023;Burgos CF;Andorra;0;0;0
+25/11/2023;Racing Santander;Villarreal B;2;0;2
+24/11/2023;Huesca;Valladolid;0;1;-1
+20/11/2023;Levante;Racing Santander;2;4;-2
+19/11/2023;FC Cartagena SAD;Albacete;1;1;0
+19/11/2023;Villarreal B;Andorra;0;0;0
+19/11/2023;Eldense;Mirandes;2;2;0
+19/11/2023;R. Oviedo;Eibar;2;1;1
+19/11/2023;Ferrol;Burgos CF;1;1;0
+18/11/2023;Espanyol;Elche;2;0;2
+18/11/2023;Amorebieta;Tenerife;2;0;2
+18/11/2023;Zaragoza;Huesca;0;2;-2
+18/11/2023;Alcorcon;Gijon;0;0;0
+17/11/2023;Valladolid;Leganes;1;1;0
+13/11/2023;R. Oviedo;FC Cartagena SAD;1;1;0
+12/11/2023;Eibar;Albacete;1;1;0
+12/11/2023;Huesca;Espanyol;1;1;0
+12/11/2023;Tenerife;Villarreal B;0;1;-1
+12/11/2023;Andorra;Eldense;1;3;-2
+12/11/2023;Burgos CF;Alcorcon;4;2;2
+11/11/2023;Gijon;Amorebieta;1;1;0
+11/11/2023;Elche;Zaragoza;2;0;2
+11/11/2023;Mirandes;Ferrol;1;2;-1
+11/11/2023;Racing Santander;Valladolid;2;3;-1
+10/11/2023;Leganes;Levante;2;1;1
+06/11/2023;Zaragoza;R. Oviedo;0;0;0
+05/11/2023;Eldense;Burgos CF;2;0;2
+05/11/2023;Alcorcon;Racing Santander;3;1;2
+05/11/2023;FC Cartagena SAD;Leganes;0;3;-3
+05/11/2023;Amorebieta;Huesca;0;1;-1
+05/11/2023;Ferrol;Andorra;1;0;1
+04/11/2023;Albacete;Elche;1;1;0
+04/11/2023;Levante;Mirandes;2;2;0
+04/11/2023;Valladolid;Tenerife;2;0;2
+04/11/2023;Villarreal B;Gijon;0;3;-3
+03/11/2023;Espanyol;Eibar;2;2;0
+30/10/2023;Burgos CF;Zaragoza;1;1;0
+29/10/2023;Racing Santander;Ferrol;1;3;-2
+29/10/2023;Leganes;Villarreal B;1;0;1
+29/10/2023;R. Oviedo;Alcorcon;2;0;2
+29/10/2023;Huesca;Albacete;0;0;0
+29/10/2023;Mirandes;FC Cartagena SAD;2;1;1
+28/10/2023;Elche;Tenerife;2;1;1
+28/10/2023;Andorra;Levante;2;0;2
+28/10/2023;Gijon;Espanyol;2;0;2
+28/10/2023;Eldense;Amorebieta;2;0;2
+27/10/2023;Eibar;Valladolid;5;1;4
+23/10/2023;Alcorcon;FC Cartagena SAD;1;1;0
+22/10/2023;Valladolid;Andorra;2;0;2
+22/10/2023;Albacete;Gijon;1;3;-2
+22/10/2023;Racing Santander;Burgos CF;3;0;3
+22/10/2023;Huesca;Elche;0;1;-1
+22/10/2023;Ferrol;Eldense;1;1;0
+21/10/2023;Zaragoza;Eibar;2;3;-1
+21/10/2023;Tenerife;Levante;0;0;0
+21/10/2023;Amorebieta;R. Oviedo;0;0;0
+21/10/2023;Villarreal B;Mirandes;0;3;-3
+20/10/2023;Espanyol;Leganes;0;1;-1
+16/10/2023;Levante;Ferrol;1;0;1
+15/10/2023;Eibar;Huesca;1;1;0
+15/10/2023;Leganes;Amorebieta;6;0;6
+15/10/2023;Andorra;Alcorcon;2;0;2
+15/10/2023;Eldense;Elche;1;1;0
+15/10/2023;Burgos CF;Villarreal B;3;2;1
+14/10/2023;Espanyol;Valladolid;2;0;2
+14/10/2023;FC Cartagena SAD;Racing Santander;2;3;-1
+14/10/2023;Gijon;Zaragoza;2;2;0
+14/10/2023;Mirandes;Tenerife;1;1;0
+13/10/2023;R. Oviedo;Albacete;3;0;3
+09/10/2023;Villarreal B;Espanyol;3;1;2
+09/10/2023;Elche;Andorra;2;1;1
+08/10/2023;Zaragoza;Alcorcon;0;2;-2
+08/10/2023;Ferrol;FC Cartagena SAD;1;1;0
+08/10/2023;Tenerife;Burgos CF;2;1;1
+08/10/2023;Valladolid;Mirandes;3;2;1
+08/10/2023;Amorebieta;Eibar;1;2;-1
+07/10/2023;Leganes;R. Oviedo;0;0;0
+07/10/2023;Racing Santander;Gijon;3;2;1
+07/10/2023;Huesca;Eldense;0;1;-1
+06/10/2023;Albacete;Levante;0;2;-2
+05/10/2023;FC Cartagena SAD;Espanyol;0;2;-2
+05/10/2023;Ferrol;Amorebieta;1;0;1
+05/10/2023;Andorra;Zaragoza;0;1;-1
+05/10/2023;Mirandes;Eibar;1;3;-2
+04/10/2023;Burgos CF;Leganes;1;0;1
+04/10/2023;Gijon;Elche;2;0;2
+04/10/2023;Eldense;Valladolid;0;1;-1
+04/10/2023;R. Oviedo;Huesca;1;0;1
+03/10/2023;Tenerife;Racing Santander;2;0;2
+03/10/2023;Alcorcon;Albacete;1;2;-1
+03/10/2023;Levante;Villarreal B;1;1;0
+02/10/2023;Espanyol;Ferrol;3;0;3
+01/10/2023;Huesca;Gijon;0;1;-1
+01/10/2023;Amorebieta;FC Cartagena SAD;0;0;0
+01/10/2023;Valladolid;Burgos CF;3;0;3
+01/10/2023;Zaragoza;Mirandes;0;1;-1
+01/10/2023;Eldense;R. Oviedo;1;3;-2
+30/09/2023;Albacete;Andorra;3;1;2
+30/09/2023;Villarreal B;Alcorcon;2;2;0
+30/09/2023;Elche;Levante;0;0;0
+30/09/2023;Eibar;Tenerife;3;0;3
+29/09/2023;Leganes;Racing Santander;2;1;1
+25/09/2023;Ferrol;Zaragoza;1;0;1
+25/09/2023;Tenerife;Espanyol;1;0;1
+24/09/2023;Mirandes;Leganes;1;3;-2
+24/09/2023;R. Oviedo;Valladolid;0;1;-1
+24/09/2023;Villarreal B;Amorebieta;3;1;2
+23/09/2023;Alcorcon;Huesca;0;2;-2
+23/09/2023;Racing Santander;Albacete;2;1;1
+23/09/2023;Burgos CF;Elche;4;0;4
+23/09/2023;Levante;Eldense;2;0;2
+23/09/2023;Andorra;Gijon;0;0;0
+22/09/2023;FC Cartagena SAD;Eibar;1;2;-1
+18/09/2023;Andorra;R. Oviedo;1;0;1
+17/09/2023;Gijon;Tenerife;2;1;1
+17/09/2023;Elche;Leganes;1;0;1
+17/09/2023;Espanyol;Eldense;3;3;0
+17/09/2023;Eibar;Ferrol;2;0;2
+17/09/2023;Amorebieta;Mirandes;2;0;2
+16/09/2023;Albacete;Burgos CF;2;1;1
+16/09/2023;Alcorcon;Levante;0;2;-2
+16/09/2023;Valladolid;FC Cartagena SAD;1;0;1
+16/09/2023;Huesca;Villarreal B;2;2;0
+15/09/2023;Zaragoza;Racing Santander;1;1;0
+11/09/2023;Eldense;Alcorcon;2;2;0
+10/09/2023;Valladolid;Elche;1;1;0
+10/09/2023;FC Cartagena SAD;Zaragoza;1;3;-2
+10/09/2023;Mirandes;Andorra;4;3;1
+10/09/2023;Ferrol;Villarreal B;2;2;0
+10/09/2023;Racing Santander;Amorebieta;1;0;1
+09/09/2023;Leganes;Huesca;2;0;2
+09/09/2023;Tenerife;Albacete;2;0;2
+09/09/2023;R. Oviedo;Gijon;0;0;0
+09/09/2023;Burgos CF;Eibar;1;0;1
+08/09/2023;Levante;Espanyol;1;4;-3
+03/09/2023;Huesca;Mirandes;1;1;0
+03/09/2023;Espanyol;Amorebieta;3;2;1
+03/09/2023;Zaragoza;Eldense;2;0;2
+03/09/2023;Eibar;Leganes;0;1;-1
+03/09/2023;Andorra;Tenerife;0;1;-1
+02/09/2023;Elche;Racing Santander;1;1;0
+02/09/2023;Villarreal B;FC Cartagena SAD;1;2;-1
+02/09/2023;Levante;R. Oviedo;1;1;0
+02/09/2023;Gijon;Burgos CF;2;1;1
+01/09/2023;Albacete;Valladolid;2;0;2
+01/09/2023;Alcorcon;Ferrol;1;1;0
+28/08/2023;Racing Santander;Huesca;0;0;0
+28/08/2023;Eldense;Eibar;2;1;1
+27/08/2023;Leganes;Albacete;2;0;2
+27/08/2023;Amorebieta;Andorra;3;0;3
+27/08/2023;Mirandes;Espanyol;0;1;-1
+27/08/2023;Ferrol;Gijon;2;0;2
+26/08/2023;Elche;Villarreal B;1;0;1
+26/08/2023;Valladolid;Alcorcon;0;2;-2
+26/08/2023;Tenerife;Zaragoza;0;1;-1
+26/08/2023;Burgos CF;R. Oviedo;1;0;1
+25/08/2023;FC Cartagena SAD;Levante;0;1;-1
+21/08/2023;Huesca;Tenerife;0;2;-2
+21/08/2023;Villarreal B;Eldense;3;1;2
+20/08/2023;Albacete;Amorebieta;2;2;0
+20/08/2023;Gijon;Mirandes;3;0;3
+20/08/2023;R. Oviedo;Ferrol;1;1;0
+19/08/2023;Alcorcon;Leganes;0;2;-2
+19/08/2023;Levante;Burgos CF;3;2;1
+19/08/2023;Espanyol;Racing Santander;2;0;2
+19/08/2023;Eibar;Elche;2;1;1
+18/08/2023;Zaragoza;Valladolid;1;0;1
+18/08/2023;Andorra;FC Cartagena SAD;3;2;1
+14/08/2023;Tenerife;R. Oviedo;1;0;1
+14/08/2023;Mirandes;Alcorcon;4;0;4
+13/08/2023;Leganes;Andorra;0;1;-1
+13/08/2023;Albacete;Espanyol;1;1;0
+13/08/2023;FC Cartagena SAD;Eldense;0;1;-1
+13/08/2023;Burgos CF;Huesca;1;1;0
+12/08/2023;Elche;Ferrol;0;1;-1
+12/08/2023;Zaragoza;Villarreal B;2;0;2
+12/08/2023;Racing Santander;Eibar;4;0;4
+11/08/2023;Valladolid;Gijon;2;0;2
+11/08/2023;Amorebieta;Levante;1;1;0

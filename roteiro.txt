@@ -10,14 +10,16 @@ country-league-season.csv
 DATE;ROUND;HOME;AWAY;FTHG;FTAG;DIFF
 
 # Country list
-england, france, germany, italy, netherlands, spain, portugal, belgium, norway, sweden, finland
-
-# League list
-https://www.flashscore.com/football/england/premier-league/archive/
-https://www.flashscore.com/football/england/championship/archive/
-https://www.flashscore.com/football/france/ligue-1/archive/
-https://www.flashscore.com/football/france/ligue-2/archive/
-
+const countries = ['england', 'france', 'germany', 'italy', 'netherlands', 'spain', 'portugal', 'belgium', 'norway', 'sweden', 'finland', 'austria', 'turkey'];
 
 # Análise
 Faz a separação pelas datas. Pega a data do jogo, e faz os cálculos para todos os jogos anteriores a data do jogo a ser analisado.
+Deve ser feito o ajuste no código chance.py para interpretar a nova coluna DATE
+Deve ser feito um novo código tomando como base o código chance.py
+Começa pela 5th rodada para prever a 6th.
+Prossegue de rodada em rodada.
+Calcula os scores e diff até a rodada N, compara com o resultado da rodada N+1.
+Não tem a coluna ROUND, mas se for preciso, pode ser incluída a partir das datas ou frequencia de jogos dos times.
+Definir uma métrica para "se o diff foi correspondido com o resultado real"
+Visualizar uma lista com todos os campeonatos e os valores das métricas
+Métrica deve indicar taxa de acerto do método em cada campeonato

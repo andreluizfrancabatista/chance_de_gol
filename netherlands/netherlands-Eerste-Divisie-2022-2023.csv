@@ -1,0 +1,381 @@
+DATE;HOME;AWAY;FTHG;FTAG;DIFF
+19/05/2023;Almere City;Maastricht;1;0;1
+19/05/2023;De Graafschap;Den Bosch;3;0;3
+19/05/2023;Dordrecht;Oss;2;2;0
+19/05/2023;Helmond;Zwolle;2;3;-1
+19/05/2023;Heracles;Jong Ajax;2;0;2
+19/05/2023;Jong AZ;Den Haag;0;2;-2
+19/05/2023;Jong PSV;Eindhoven FC;1;1;0
+19/05/2023;Jong Utrecht;Venlo;1;1;0
+19/05/2023;Roda;Willem II;2;2;0
+19/05/2023;Telstar;NAC Breda;2;1;1
+12/05/2023;Den Bosch;Almere City;2;2;0
+12/05/2023;Den Haag;Dordrecht;2;2;0
+12/05/2023;Eindhoven FC;Helmond;0;1;-1
+12/05/2023;Jong Ajax;Jong AZ;1;2;-1
+12/05/2023;Maastricht;Telstar;2;1;1
+12/05/2023;NAC Breda;Heracles;0;3;-3
+12/05/2023;Oss;Jong PSV;1;0;1
+12/05/2023;Venlo;De Graafschap;2;1;1
+12/05/2023;Willem II;Jong Utrecht;3;0;3
+12/05/2023;Zwolle;Roda;3;1;2
+08/05/2023;Jong Ajax;Den Haag;4;2;2
+08/05/2023;Jong AZ;Oss;1;1;0
+08/05/2023;Jong PSV;Zwolle;3;1;2
+08/05/2023;Jong Utrecht;Den Bosch;0;0;0
+07/05/2023;Almere City;NAC Breda;0;2;-2
+05/05/2023;De Graafschap;Maastricht;2;1;1
+05/05/2023;Dordrecht;Heracles;1;3;-2
+05/05/2023;Helmond;Venlo;1;1;0
+05/05/2023;Roda;Eindhoven FC;1;2;-1
+05/05/2023;Telstar;Willem II;0;0;0
+29/04/2023;Willem II;De Graafschap;3;2;1
+29/04/2023;NAC Breda;Roda;4;2;2
+28/04/2023;Den Bosch;Telstar;0;1;-1
+28/04/2023;Den Haag;Helmond;2;2;0
+28/04/2023;Eindhoven FC;Jong Utrecht;2;0;2
+28/04/2023;Heracles;Jong PSV;3;0;3
+28/04/2023;Maastricht;Jong AZ;1;3;-2
+28/04/2023;Oss;Almere City;0;5;-5
+28/04/2023;Venlo;Jong Ajax;0;1;-1
+28/04/2023;Zwolle;Dordrecht;4;0;4
+25/04/2023;NAC Breda;Willem II;1;1;0
+24/04/2023;Jong PSV;Maastricht;0;1;-1
+24/04/2023;Jong Utrecht;Jong Ajax;1;0;1
+21/04/2023;Almere City;Zwolle;1;1;0
+21/04/2023;De Graafschap;Den Haag;0;1;-1
+21/04/2023;Dordrecht;Jong AZ;1;0;1
+21/04/2023;Eindhoven FC;NAC Breda;1;2;-1
+21/04/2023;Helmond;Heracles;0;1;-1
+21/04/2023;Roda;Den Bosch;0;1;-1
+21/04/2023;Telstar;Venlo;1;0;1
+21/04/2023;Willem II;Oss;4;0;4
+17/04/2023;Jong Ajax;Jong PSV;5;4;1
+17/04/2023;Jong AZ;Jong Utrecht;4;0;4
+16/04/2023;Den Haag;Almere City;2;3;-1
+14/04/2023;Den Bosch;Helmond;1;2;-1
+14/04/2023;Heracles;Roda;1;0;1
+14/04/2023;Maastricht;Dordrecht;2;1;1
+14/04/2023;Oss;De Graafschap;3;3;0
+14/04/2023;Venlo;Eindhoven FC;2;2;0
+14/04/2023;Zwolle;Telstar;2;0;2
+10/04/2023;Jong Utrecht;Oss;4;2;2
+09/04/2023;Willem II;Venlo;2;1;1
+07/04/2023;Almere City;Jong AZ;2;1;1
+07/04/2023;De Graafschap;Heracles;5;3;2
+07/04/2023;Dordrecht;Jong PSV;1;0;1
+07/04/2023;Eindhoven FC;Zwolle;4;2;2
+07/04/2023;Helmond;Maastricht;1;2;-1
+07/04/2023;NAC Breda;Den Bosch;2;0;2
+07/04/2023;Roda;Den Haag;1;1;0
+07/04/2023;Telstar;Jong Ajax;2;3;-1
+03/04/2023;Almere City;Jong Utrecht;1;0;1
+03/04/2023;Jong Ajax;Dordrecht;4;1;3
+03/04/2023;Jong AZ;De Graafschap;0;1;-1
+03/04/2023;Jong PSV;Roda;5;1;4
+02/04/2023;Den Bosch;Willem II;0;2;-2
+31/03/2023;Den Haag;Telstar;3;1;2
+31/03/2023;Heracles;Almere City;1;1;0
+31/03/2023;Maastricht;Eindhoven FC;3;2;1
+31/03/2023;Oss;Helmond;2;2;0
+31/03/2023;Venlo;NAC Breda;1;3;-2
+31/03/2023;Zwolle;Jong Utrecht;2;0;2
+26/03/2023;Dordrecht;Helmond;0;0;0
+26/03/2023;Heracles;Den Bosch;3;2;1
+26/03/2023;Telstar;Oss;1;0;1
+26/03/2023;Willem II;Maastricht;2;0;2
+19/03/2023;Venlo;Roda;1;1;0
+17/03/2023;Den Bosch;Dordrecht;3;1;2
+17/03/2023;Den Haag;Willem II;1;3;-2
+17/03/2023;Helmond;Telstar;2;2;0
+17/03/2023;Jong Ajax;Almere City;0;2;-2
+17/03/2023;Jong AZ;Eindhoven FC;1;1;0
+17/03/2023;Jong PSV;De Graafschap;2;1;1
+17/03/2023;Maastricht;Jong Utrecht;1;0;1
+17/03/2023;Oss;Heracles;1;5;-4
+17/03/2023;Zwolle;NAC Breda;2;0;2
+13/03/2023;Almere City;Venlo;1;3;-2
+13/03/2023;De Graafschap;Zwolle;0;1;-1
+13/03/2023;Eindhoven FC;Den Haag;1;1;0
+13/03/2023;Jong Utrecht;Jong PSV;0;1;-1
+13/03/2023;NAC Breda;Jong Ajax;2;6;-4
+13/03/2023;Roda;Jong AZ;2;0;2
+10/03/2023;Dordrecht;De Graafschap;0;4;-4
+10/03/2023;Eindhoven FC;Jong Ajax;5;1;4
+10/03/2023;Helmond;Jong PSV;3;0;3
+10/03/2023;Heracles;Jong AZ;2;0;2
+10/03/2023;NAC Breda;Maastricht;4;1;3
+10/03/2023;Oss;Den Haag;2;3;-1
+10/03/2023;Roda;Telstar;1;2;-1
+10/03/2023;Venlo;Den Bosch;4;0;4
+10/03/2023;Willem II;Zwolle;2;3;-1
+06/03/2023;De Graafschap;Helmond;2;0;2
+06/03/2023;Den Haag;Heracles;0;3;-3
+06/03/2023;Jong Ajax;Oss;1;2;-1
+06/03/2023;Jong AZ;Willem II;2;2;0
+06/03/2023;Jong PSV;NAC Breda;1;2;-1
+06/03/2023;Jong Utrecht;Roda;1;3;-2
+03/03/2023;Dordrecht;Almere City;0;1;-1
+03/03/2023;Maastricht;Venlo;0;1;-1
+03/03/2023;Telstar;Eindhoven FC;0;1;-1
+03/03/2023;Zwolle;Den Bosch;13;0;13
+27/02/2023;Jong PSV;Jong AZ;3;3;0
+27/02/2023;Maastricht;Zwolle;3;2;1
+26/02/2023;Den Bosch;Den Haag;0;0;0
+24/02/2023;Eindhoven FC;De Graafschap;0;4;-4
+24/02/2023;Helmond;Jong Utrecht;2;0;2
+24/02/2023;Heracles;Telstar;7;0;7
+24/02/2023;NAC Breda;Dordrecht;3;2;1
+24/02/2023;Roda;Almere City;0;2;-2
+24/02/2023;Venlo;Oss;0;1;-1
+24/02/2023;Willem II;Jong Ajax;2;1;1
+20/02/2023;Jong Ajax;Maastricht;4;2;2
+20/02/2023;Jong Utrecht;NAC Breda;4;1;3
+19/02/2023;De Graafschap;Roda;2;0;2
+17/02/2023;Almere City;Helmond;0;0;0
+17/02/2023;Den Haag;Zwolle;3;1;2
+17/02/2023;Dordrecht;Venlo;1;2;-1
+17/02/2023;Heracles;Willem II;1;1;0
+17/02/2023;Jong AZ;Den Bosch;3;1;2
+17/02/2023;Oss;Eindhoven FC;2;0;2
+17/02/2023;Telstar;Jong PSV;1;1;0
+13/02/2023;Jong PSV;Den Haag;1;2;-1
+13/02/2023;Jong Utrecht;Telstar;0;1;-1
+13/02/2023;Maastricht;Heracles;0;2;-2
+10/02/2023;Den Bosch;Jong Ajax;4;2;2
+10/02/2023;Eindhoven FC;Almere City;0;1;-1
+10/02/2023;Helmond;Roda;1;0;1
+10/02/2023;Maastricht;Oss;5;1;4
+10/02/2023;NAC Breda;De Graafschap;2;0;2
+10/02/2023;Venlo;Heracles;3;1;2
+10/02/2023;Willem II;Dordrecht;1;0;1
+10/02/2023;Zwolle;Jong AZ;4;1;3
+06/02/2023;Jong Ajax;Zwolle;0;0;0
+06/02/2023;Willem II;Eindhoven FC;3;0;3
+05/02/2023;Roda;Maastricht;2;1;1
+03/02/2023;Almere City;Jong PSV;1;2;-1
+03/02/2023;De Graafschap;Telstar;0;1;-1
+03/02/2023;Den Haag;NAC Breda;2;1;1
+03/02/2023;Dordrecht;Eindhoven FC;4;0;4
+03/02/2023;Heracles;Jong Utrecht;6;1;5
+03/02/2023;Jong AZ;Venlo;4;3;1
+03/02/2023;Oss;Den Bosch;3;0;3
+03/02/2023;Willem II;Helmond;5;1;4
+30/01/2023;Jong PSV;Willem II;3;2;1
+30/01/2023;Jong Utrecht;De Graafschap;1;1;0
+30/01/2023;Roda;Zwolle;1;2;-1
+27/01/2023;Den Bosch;Maastricht;3;3;0
+27/01/2023;Eindhoven FC;Heracles;1;0;1
+27/01/2023;Helmond;Jong Ajax;1;1;0
+27/01/2023;NAC Breda;Jong AZ;5;1;4
+27/01/2023;Roda;Dordrecht;1;0;1
+27/01/2023;Telstar;Almere City;0;1;-1
+27/01/2023;Venlo;Den Haag;0;0;0
+27/01/2023;Zwolle;Oss;4;1;3
+24/01/2023;Telstar;Maastricht;5;3;2
+23/01/2023;Jong Ajax;Roda;1;2;-1
+23/01/2023;Jong AZ;Helmond;1;1;0
+23/01/2023;Jong PSV;Venlo;1;2;-1
+22/01/2023;Den Haag;Jong Utrecht;1;1;0
+21/01/2023;Dordrecht;Telstar;0;0;0
+20/01/2023;Almere City;De Graafschap;2;2;0
+20/01/2023;Den Bosch;Jong PSV;1;0;1
+20/01/2023;Oss;NAC Breda;1;2;-1
+20/01/2023;Zwolle;Venlo;2;0;2
+16/01/2023;Eindhoven FC;Den Bosch;4;1;3
+16/01/2023;Jong Utrecht;Dordrecht;0;1;-1
+16/01/2023;Oss;Jong AZ;1;3;-2
+15/01/2023;Heracles;Zwolle;0;3;-3
+15/01/2023;Almere City;Willem II;1;0;1
+13/01/2023;De Graafschap;Jong Ajax;3;0;3
+13/01/2023;Den Haag;Maastricht;2;1;1
+13/01/2023;Helmond;NAC Breda;2;2;0
+13/01/2023;Roda;Oss;1;1;0
+13/01/2023;Telstar;Jong AZ;1;0;1
+09/01/2023;Jong Utrecht;Jong AZ;0;2;-2
+06/01/2023;Den Bosch;Jong Utrecht;1;4;-3
+06/01/2023;Dordrecht;Den Haag;0;1;-1
+06/01/2023;Jong Ajax;Eindhoven FC;1;1;0
+06/01/2023;Jong AZ;Heracles;1;1;0
+06/01/2023;Maastricht;De Graafschap;2;2;0
+06/01/2023;NAC Breda;Jong PSV;2;1;1
+06/01/2023;Oss;Telstar;2;1;1
+06/01/2023;Venlo;Helmond;1;1;0
+06/01/2023;Willem II;Roda;1;0;1
+06/01/2023;Zwolle;Almere City;3;2;1
+16/12/2022;De Graafschap;Willem II;0;3;-3
+16/12/2022;Den Haag;Oss;0;0;0
+16/12/2022;Eindhoven FC;Venlo;0;2;-2
+16/12/2022;Helmond;Den Bosch;1;0;1
+16/12/2022;Heracles;Dordrecht;8;1;7
+16/12/2022;NAC Breda;Almere City;0;1;-1
+15/12/2022;Jong PSV;Jong Ajax;2;2;0
+12/12/2022;Zwolle;Helmond;1;0;1
+12/12/2022;Jong AZ;Jong PSV;2;3;-1
+11/12/2022;Almere City;Den Haag;4;1;3
+11/12/2022;De Graafschap;Eindhoven FC;1;2;-1
+11/12/2022;Jong Ajax;Jong Utrecht;1;2;-1
+11/12/2022;Oss;Dordrecht;0;1;-1
+11/12/2022;Roda;Heracles;1;3;-2
+11/12/2022;Telstar;Den Bosch;1;0;1
+11/12/2022;Venlo;Maastricht;2;1;1
+11/12/2022;Willem II;NAC Breda;1;2;-1
+20/11/2022;Dordrecht;Willem II;2;2;0
+19/11/2022;NAC Breda;Zwolle;0;2;-2
+19/11/2022;Maastricht;Almere City;1;0;1
+19/11/2022;Heracles;Oss;3;0;3
+19/11/2022;Den Bosch;Venlo;0;2;-2
+18/11/2022;Helmond;De Graafschap;0;2;-2
+18/11/2022;Eindhoven FC;Telstar;3;0;3
+17/11/2022;Jong AZ;Jong Ajax;1;1;0
+17/11/2022;Jong PSV;Jong Utrecht;2;1;1
+16/11/2022;Den Haag;Roda;0;1;-1
+14/11/2022;Jong Ajax;Den Bosch;4;4;0
+14/11/2022;Jong Utrecht;Maastricht;3;0;3
+13/11/2022;Almere City;Dordrecht;2;1;1
+12/11/2022;Roda;Helmond;0;1;-1
+11/11/2022;De Graafschap;Jong PSV;3;2;1
+11/11/2022;Heracles;NAC Breda;5;1;4
+11/11/2022;Telstar;Den Haag;0;0;0
+11/11/2022;Venlo;Willem II;0;0;0
+11/11/2022;Zwolle;Eindhoven FC;5;2;3
+07/11/2022;Jong AZ;Roda;2;0;2
+07/11/2022;Jong PSV;Almere City;0;1;-1
+07/11/2022;Jong Utrecht;Eindhoven FC;0;1;-1
+04/11/2022;Den Bosch;De Graafschap;2;1;1
+04/11/2022;Den Haag;Venlo;2;3;-1
+04/11/2022;Dordrecht;Jong Ajax;3;4;-1
+04/11/2022;Maastricht;Helmond;4;0;4
+04/11/2022;NAC Breda;Telstar;1;1;0
+04/11/2022;Oss;Zwolle;0;5;-5
+04/11/2022;Willem II;Heracles;1;2;-1
+31/10/2022;Jong Ajax;Willem II;1;2;-1
+28/10/2022;Almere City;Heracles;3;2;1
+28/10/2022;De Graafschap;Oss;2;0;2
+28/10/2022;Den Bosch;NAC Breda;3;2;1
+28/10/2022;Eindhoven FC;Jong PSV;2;2;0
+28/10/2022;Helmond;Den Haag;2;1;1
+28/10/2022;Roda;Jong Utrecht;4;1;3
+28/10/2022;Telstar;Dordrecht;2;2;0
+28/10/2022;Venlo;Jong AZ;1;2;-1
+28/10/2022;Zwolle;Maastricht;0;1;-1
+24/10/2022;Jong Ajax;Venlo;1;1;0
+24/10/2022;Jong AZ;Telstar;0;0;0
+24/10/2022;Jong PSV;Helmond;6;0;6
+24/10/2022;Jong Utrecht;Zwolle;0;1;-1
+22/10/2022;Dordrecht;NAC Breda;0;3;-3
+22/10/2022;Maastricht;Den Bosch;3;1;2
+21/10/2022;Den Haag;De Graafschap;2;2;0
+21/10/2022;Heracles;Eindhoven FC;3;0;3
+21/10/2022;Oss;Roda;3;0;3
+21/10/2022;Willem II;Almere City;1;1;0
+14/10/2022;Almere City;Jong Ajax;2;3;-1
+14/10/2022;De Graafschap;Jong Utrecht;2;0;2
+14/10/2022;Den Bosch;Jong AZ;3;0;3
+14/10/2022;Eindhoven FC;Oss;2;1;1
+14/10/2022;Helmond;Willem II;1;3;-2
+14/10/2022;Maastricht;Jong PSV;1;1;0
+14/10/2022;NAC Breda;Den Haag;1;2;-1
+14/10/2022;Telstar;Roda;2;1;1
+14/10/2022;Venlo;Dordrecht;0;1;-1
+14/10/2022;Zwolle;Heracles;3;2;1
+07/10/2022;Den Haag;Eindhoven FC;1;0;1
+07/10/2022;Dordrecht;Zwolle;3;0;3
+07/10/2022;Heracles;De Graafschap;3;2;1
+07/10/2022;Jong Ajax;Helmond;0;1;-1
+07/10/2022;Jong AZ;NAC Breda;4;0;4
+07/10/2022;Jong PSV;Telstar;0;2;-2
+07/10/2022;Jong Utrecht;Almere City;0;2;-2
+07/10/2022;Oss;Maastricht;0;1;-1
+07/10/2022;Roda;Venlo;4;1;3
+07/10/2022;Willem II;Den Bosch;1;2;-1
+30/09/2022;Almere City;Roda;2;1;1
+30/09/2022;De Graafschap;Jong AZ;2;0;2
+30/09/2022;Den Bosch;Heracles;1;2;-1
+30/09/2022;Den Haag;Jong PSV;1;3;-2
+30/09/2022;Eindhoven FC;Dordrecht;1;1;0
+30/09/2022;Helmond;Oss;1;2;-1
+30/09/2022;Maastricht;Willem II;3;2;1
+30/09/2022;NAC Breda;Venlo;1;2;-1
+30/09/2022;Telstar;Jong Utrecht;2;2;0
+30/09/2022;Zwolle;Jong Ajax;1;1;0
+23/09/2022;Dordrecht;Maastricht;1;2;-1
+23/09/2022;Heracles;Helmond;2;0;2
+23/09/2022;Oss;Willem II;1;3;-2
+23/09/2022;Venlo;Telstar;1;1;0
+17/09/2022;Den Bosch;Oss;4;1;3
+16/09/2022;De Graafschap;Almere City;1;2;-1
+16/09/2022;Eindhoven FC;Roda;3;3;0
+16/09/2022;Helmond;Dordrecht;2;1;1
+16/09/2022;Maastricht;Jong Ajax;4;1;3
+16/09/2022;NAC Breda;Jong Utrecht;3;1;2
+16/09/2022;Telstar;Heracles;0;3;-3
+16/09/2022;Venlo;Jong PSV;1;1;0
+16/09/2022;Willem II;Jong AZ;1;0;1
+16/09/2022;Zwolle;Den Haag;1;2;-1
+12/09/2022;Almere City;Eindhoven FC;1;1;0
+12/09/2022;Jong Ajax;NAC Breda;3;1;2
+12/09/2022;Jong AZ;Zwolle;2;3;-1
+12/09/2022;Jong PSV;Den Bosch;3;1;2
+12/09/2022;Jong Utrecht;Den Haag;1;1;0
+12/09/2022;Roda;De Graafschap;3;2;1
+09/09/2022;Almere City;Telstar;0;1;-1
+09/09/2022;De Graafschap;NAC Breda;1;1;0
+09/09/2022;Den Haag;Jong AZ;2;2;0
+09/09/2022;Dordrecht;Den Bosch;2;1;1
+09/09/2022;Eindhoven FC;Maastricht;5;0;5
+09/09/2022;Heracles;Venlo;5;3;2
+09/09/2022;Jong Utrecht;Helmond;2;0;2
+09/09/2022;Oss;Jong Ajax;1;1;0
+09/09/2022;Roda;Jong PSV;1;1;0
+09/09/2022;Zwolle;Willem II;2;2;0
+05/09/2022;Jong Ajax;Heracles;4;0;4
+05/09/2022;Jong AZ;Dordrecht;3;1;2
+05/09/2022;Jong PSV;Oss;0;3;-3
+04/09/2022;Maastricht;Roda;1;1;0
+02/09/2022;Den Bosch;Zwolle;1;2;-1
+02/09/2022;Helmond;Almere City;3;0;3
+02/09/2022;NAC Breda;Eindhoven FC;1;1;0
+02/09/2022;Venlo;Jong Utrecht;2;1;1
+02/09/2022;Willem II;Den Haag;1;0;1
+01/09/2022;Telstar;De Graafschap;0;1;-1
+29/08/2022;Heracles;Maastricht;2;2;0
+29/08/2022;Jong Utrecht;Willem II;0;0;0
+28/08/2022;Den Haag;Jong Ajax;4;0;4
+26/08/2022;Almere City;Den Bosch;2;0;2
+26/08/2022;De Graafschap;Dordrecht;1;1;0
+26/08/2022;Eindhoven FC;Jong AZ;1;0;1
+26/08/2022;Oss;Venlo;1;2;-1
+26/08/2022;Roda;NAC Breda;1;3;-2
+26/08/2022;Telstar;Helmond;2;1;1
+26/08/2022;Zwolle;Jong PSV;4;2;2
+22/08/2022;Jong Ajax;De Graafschap;5;1;4
+22/08/2022;Jong AZ;Almere City;3;2;1
+22/08/2022;Jong PSV;Heracles;0;3;-3
+21/08/2022;Venlo;Zwolle;0;4;-4
+19/08/2022;Den Bosch;Roda;0;3;-3
+19/08/2022;Dordrecht;Jong Utrecht;2;1;1
+19/08/2022;Helmond;Eindhoven FC;0;1;-1
+19/08/2022;Maastricht;Den Haag;3;1;2
+19/08/2022;NAC Breda;Oss;1;0;1
+19/08/2022;Willem II;Telstar;2;1;1
+15/08/2022;Jong PSV;Dordrecht;1;0;1
+15/08/2022;Jong Utrecht;Heracles;0;3;-3
+15/08/2022;Maastricht;NAC Breda;3;1;2
+14/08/2022;Den Haag;Den Bosch;0;2;-2
+12/08/2022;Almere City;Oss;3;0;3
+12/08/2022;De Graafschap;Venlo;1;2;-1
+12/08/2022;Eindhoven FC;Willem II;2;1;1
+12/08/2022;Helmond;Jong AZ;1;3;-2
+12/08/2022;Roda;Jong Ajax;1;0;1
+12/08/2022;Telstar;Zwolle;0;5;-5
+08/08/2022;Jong Ajax;Telstar;1;1;0
+08/08/2022;Jong AZ;Maastricht;3;1;2
+07/08/2022;Zwolle;De Graafschap;2;1;1
+05/08/2022;Den Bosch;Eindhoven FC;1;3;-2
+05/08/2022;Dordrecht;Roda;0;2;-2
+05/08/2022;Heracles;Den Haag;4;0;4
+05/08/2022;NAC Breda;Helmond;1;0;1
+05/08/2022;Oss;Jong Utrecht;3;0;3
+05/08/2022;Venlo;Almere City;3;0;3
+05/08/2022;Willem II;Jong PSV;1;1;0
