@@ -16,7 +16,8 @@ const path = require('path');
 
         await page.setViewport({ width: 1366, height: 768 });
 
-        const response1 = await page.goto('https://www.flashscore.com/football/brazil/serie-a/results/');
+        const response1 = await page.goto('https://www.flashscore.com/football/brazil/serie-b/results/');
+        //const response1 = await page.goto('https://www.flashscore.com/football/south-korea/k-league-1/results/');
         
         if (response1.ok()) {
             //console.log('Página criada com sucesso');
@@ -25,7 +26,8 @@ const path = require('path');
             console.log('Erro 404.');
         }
         
-        const response2 = await page.goto('https://www.flashscore.com/football/brazil/serie-a/fixtures/');
+        const response2 = await page.goto('https://www.flashscore.com/football/brazil/serie-b/fixtures/');
+        //const response2 = await page.goto('https://www.flashscore.com/football/south-korea/k-league-1/fixtures/');
         
         if (response2.ok()) {
             //console.log('Página criada com sucesso');
@@ -69,7 +71,7 @@ async function scrapeData(page) {
         }
 
     }
-    const filename = path.join(__dirname, 'serie_a_js.csv');
+    const filename = path.join(__dirname, 'serie_b_js.csv');
     saveToCSV(dados, filename);
     const end = Date.now();
     console.log(`Tempo: ${(end-start)/1000} segundos`);
@@ -103,7 +105,7 @@ async function scrapeProx(page) {
         }
 
     }
-    const filename = path.join(__dirname, 'serie_a_proximos_js.csv');
+    const filename = path.join(__dirname, 'serie_b_proximos_js.csv');
     saveToCSVProx(dados, filename);
     const end = Date.now();
     console.log(`Tempo: ${(end-start)/1000} segundos`);
@@ -123,7 +125,7 @@ function saveToCSV(dados, filename) {
 
 function saveToCSVProx(dados, filename) {
 
-    const header = `HOME;AWAY;FTHG;FTAG;DIFF\n`;
+    const header = `HOME;AWAY\n`;
    
     const rows = dados.HOME.map((home, index) => `${home};${dados.AWAY[index]}\n`).join('');
 

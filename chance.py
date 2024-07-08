@@ -55,7 +55,9 @@ serie = 'a'
 # O arquivo CSV deve estar no seguinte formato
 # HOME;AWAY;FTHG;FTAG;DIFF
 # Caminho para o arquivo CSV
-file_path = f'serie_{serie}.csv'
+#file_path = f'serie_{serie}.csv'
+file_path = f'serie_b_js.csv'
+
 
 # O arquivo CSV deve estar no seguinte formato
 # HOME;AWAY;FTHG;FTAG;DIFF
@@ -75,7 +77,8 @@ solution_sorted = {k: v for k, v in sorted(solution.items(), key=lambda item: it
 # Caminho para o novo arquivo CSV
 # O arquivo CSV deve estar no seguinte formato
 # HOME;AWAY
-new_file_path = f'serie_{serie}_proximos.csv'
+# new_file_path = f'serie_{serie}_proximos.csv'
+new_file_path = f'serie_b_proximos_js.csv'
 
 # Adicionar pontuações e diffs ao novo CSV
 df_with_scores = add_scores_to_new_csv(solution, new_file_path)
